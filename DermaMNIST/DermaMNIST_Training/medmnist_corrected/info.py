@@ -107,7 +107,7 @@ INFO = {
             "val": 1003,
             "test": 2005
         },
-        "license": "CC BY 4.0"
+        "license": "CC BY-NC 4.0"
     },
     "octmnist": {
         "python_class": "OCTMNIST",
@@ -469,7 +469,7 @@ INFO = {
         "This is a corrected version of the original DermaMNIST dataset after fixing data leakage across partitions. The source images of 3×600×450 are resized into 3×28×28.",
         "url":
         "",
-        "MD5": "b9627e0a4a8e5b3ced605274ecd99ff9",
+        "MD5": "96e2862980877d45d9cacb5c25de6950",
         "task": "multi-class",
         "label": {
             "0": "actinic keratoses and intraepithelial carcinoma",
@@ -482,11 +482,11 @@ INFO = {
         },
         "n_channels": 3,
         "n_samples": {
-            "train": 8208,
-            "val": 575,
-            "test": 1232
+            "train": 8215,
+            "val": 573,
+            "test": 1227
         },
-        "license": "CC BY 4.0"
+        "license": "CC BY-NC 4.0"
     },
     "dermamnist_corrected_224": {
         "python_class": "DermaMNIST_Corrected_224",
@@ -494,7 +494,7 @@ INFO = {
         "This is a corrected version of the original DermaMNIST dataset after fixing data leakage across partitions. The source images of 3×600×450 are resized into 3×224×224.",
         "url":
         "",
-        "MD5": "947968c463c25c5d79b946d4311afffb",
+        "MD5": "84920fb70c83b234c295b6f0d4ae2bc0",
         "task": "multi-class",
         "label": {
             "0": "actinic keratoses and intraepithelial carcinoma",
@@ -507,11 +507,11 @@ INFO = {
         },
         "n_channels": 3,
         "n_samples": {
-            "train": 8208,
-            "val": 575,
-            "test": 1232
+            "train": 8215,
+            "val": 573,
+            "test": 1227
         },
-        "license": "CC BY 4.0"
+        "license": "CC BY-NC 4.0"
     },
     "dermamnist_extended_28": {
         "python_class": "DermaMNIST_Extended_28",
@@ -519,7 +519,7 @@ INFO = {
         "This is an extended version of the original DermaMNIST dataset, constructed by resizing the 3×600×450 source images of ISIC 2018 Challenge Task 3 into 3×28×28.",
         "url":
         "",
-        "MD5": "3a0e3e3251275dd94bf53f758fc080e6",
+        "MD5": "ecacbf37d9cc79340226bd19bd4c7463",
         "task": "multi-class",
         "label": {
             "0": "actinic keratoses and intraepithelial carcinoma",
@@ -534,9 +534,9 @@ INFO = {
         "n_samples": {
             "train": 10015,
             "val": 193,
-            "test": 1512
+            "test": 1511
         },
-        "license": "CC BY 4.0"
+        "license": "CC BY-NC 4.0"
     },
     "dermamnist_extended_224": {
         "python_class": "DermaMNIST_Extended_224",
@@ -544,7 +544,7 @@ INFO = {
         "This is an extended version of the original DermaMNIST dataset, constructed by resizing the 3×600×450 source images of ISIC 2018 Challenge Task 3 into 3×224×224.",
         "url":
         "",
-        "MD5": "8256059eb22bf418ad11b727f5a867ed",
+        "MD5": "b59d6a78a036a0bb48a1eff13d94333c",
         "task": "multi-class",
         "label": {
             "0": "actinic keratoses and intraepithelial carcinoma",
@@ -559,8 +559,8 @@ INFO = {
         "n_samples": {
             "train": 10015,
             "val": 193,
-            "test": 1512
+            "test": 1511
         },
-        "license": "CC BY 4.0"
+        "license": "CC BY-NC 4.0"
     }
 }
