@@ -1,0 +1,4 @@
+dermamnist_corrected_28
+train  auc: 0.94762  acc: 0.78344
+val  auc: 0.96024  acc: 0.83944
+test  auc: 0.93005  acc: 0.81011
