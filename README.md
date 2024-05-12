@@ -34,7 +34,7 @@ Additional visualizations and links to the new datasets: DermaMNIST-C, DermaMNIS
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11101337.svg)](https://doi.org/10.5281/zenodo.11101337)
 
-The datasets released with this work: DermaMNIST-E, DermaMNIST-C, and Fitzpatrick17k-C are available on [Zenodo](https://doi.org/10.5281/zenodo.11101337).
+The datasets released with this work: DermaMNIST-C, DermaMNIST-E, and Fitzpatrick17k-C are available on [Zenodo](https://doi.org/10.5281/zenodo.11101337).
 
 ## License and Citation
 

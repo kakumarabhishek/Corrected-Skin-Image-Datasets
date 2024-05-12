@@ -6,9 +6,18 @@ Directory containing the code for reproducing our benchmark experiment results.
 
 ## Directory Structure
 
-* [`run.sh`](run.sh): Run script for all the benchmark experiments on Fitzpatrick17k-C.
-* [`train.py`](train.py): The training and evaluation script, adopted from [the original file](https://github.com/mattgroh/fitzpatrick17k/blob/26d50745348f82a76f872ed7924361d1dccd629e/train.py), with modifications as listed in the paper and detailed below.
-* [`utils.py`](utils.py): Utility functions for various training-related tasks.
+* Model training and evaluation code:
+
+    * [`run.sh`](run.sh): Run script for all the benchmark experiments on Fitzpatrick17k-C.
+    * [`train.py`](train.py): The training and evaluation script, adopted from [the original file](https://github.com/mattgroh/fitzpatrick17k/blob/26d50745348f82a76f872ed7924361d1dccd629e/train.py), with modifications as listed in the paper and detailed below.
+    * [`utils.py`](utils.py): Utility functions for various training-related tasks.
+
+* Hyperparameter search code:
+
+    * [`hparamsearch_train.py`](hparamsearch_train.py): The script for hyperparameter search over the choices of number of training epochs, optimizer, and learning rate, over all the seven holdout sets, each repeated 3 times.
+    * [`hparamsearch_run.sh`](hparamsearch_run.sh): SLURM script for the hyperparameter search.
+    * [`hparamsearch_logs.csv`](hparamsearch_logs.csv): The log file containing the results of the hyperparameter search.
+    * [`hparamsearch_analyze_logs.py`](hparamsearch_analyze_logs.py): The script for analyzing the results of the hyperparameter search and returning the best hyperparameters and their corresponding results.
 
 ## Modifications to [`train.py`](train.py)
 
