@@ -1,0 +1,2760 @@
+
+[0.9854] Lesion IDs do not match for ISIC_0033481 and ISIC_0033421.
+vidir_modern, vidir_modern
+
+[0.9831] Lesion IDs do not match for ISIC_0033556 and ISIC_0032634.
+vidir_modern, vidir_modern
+
+[0.9763] Lesion IDs do not match for ISIC_0029152 and ISIC_0033173.
+vidir_modern, vidir_modern
+
+[0.9755] Lesion IDs do not match for ISIC_0029036 and ISIC_0027027.
+vidir_molemax, vidir_molemax
+
+[0.9732] Lesion IDs do not match for ISIC_0031769 and ISIC_0028436.
+vidir_modern, vidir_modern
+dx_type: consensus != histo
+age: 50.0 != 55.0
+localization: back != chest
+
+[0.9726] Lesion IDs do not match for ISIC_0027820 and ISIC_0028209.
+vidir_modern, vidir_modern
+
+[0.9668] Lesion IDs do not match for ISIC_0031746 and ISIC_0027466.
+rosendahl, rosendahl
+dx: mel != nv
+age: 85.0 != 45.0
+sex: male != female
+localization: chest != upper extremity
+
+[0.9664] Lesion IDs do not match for ISIC_0025702 and ISIC_0031769.
+vidir_modern, vidir_modern
+dx_type: histo != consensus
+age: 80.0 != 50.0
+localization: lower extremity != back
+
+[0.9663] Lesion IDs do not match for ISIC_0027689 and ISIC_0032647.
+vidir_modern, vidir_modern
+
+[0.9661] Lesion IDs do not match for ISIC_0030906 and ISIC_0024879.
+vidir_molemax, vidir_molemax
+
+[0.9660] Lesion IDs do not match for ISIC_0033391 and ISIC_0034186.
+vidir_modern, vidir_modern
+age: nan != nan
+
+[0.9656] Lesion IDs do not match for ISIC_0025226 and ISIC_0030074.
+vienna_dias, vienna_dias
+
+[0.9652] Lesion IDs do not match for ISIC_0033460 and ISIC_0033526.
+vidir_modern, vidir_modern
+dx: bkl != mel
+dx_type: consensus != histo
+age: 85.0 != 75.0
+sex: male != female
+localization: face != back
+
+[0.9644] Lesion IDs do not match for ISIC_0026087 and ISIC_0025664.
+vidir_molemax, vidir_molemax
+
+[0.9642] Lesion IDs do not match for ISIC_0025702 and ISIC_0028436.
+vidir_modern, vidir_modern
+age: 80.0 != 55.0
+localization: lower extremity != chest
+
+[0.9640] Lesion IDs do not match for ISIC_0029902 and ISIC_0025065.
+vidir_modern, vidir_modern
+dx_type: histo != consensus
+age: 25.0 != 30.0
+sex: male != female
+localization: back != abdomen
+
+[0.9639] Lesion IDs do not match for ISIC_0028335 and ISIC_0025605.
+rosendahl, rosendahl
+
+[0.9630] Lesion IDs do not match for ISIC_0033959 and ISIC_0033460.
+vidir_modern, vidir_modern
+dx: nv != bkl
+dx_type: histo != consensus
+age: 75.0 != 85.0
+localization: upper extremity != face
+
+[0.9627] Lesion IDs do not match for ISIC_0031888 and ISIC_0033460.
+vidir_modern, vidir_modern
+dx_type: confocal != consensus
+sex: female != male
+
+[0.9626] Lesion IDs do not match for ISIC_0024736 and ISIC_0029748.
+vidir_molemax, vidir_molemax
+localization: trunk != back
+
+[0.9624] Lesion IDs do not match for ISIC_0024770 and ISIC_0027811.
+vidir_modern, vidir_modern
+dx_type: consensus != confocal
+
+[0.9622] Lesion IDs do not match for ISIC_0029879 and ISIC_0027878.
+vidir_modern, vidir_modern
+dx_type: consensus != histo
+localization: lower extremity != trunk
+
+[0.9619] Lesion IDs do not match for ISIC_0024461 and ISIC_0024517.
+rosendahl, rosendahl
+dx: bcc != akiec
+age: 80.0 != 65.0
+sex: female != male
+localization: foot != back
+
+[0.9618] Lesion IDs do not match for ISIC_0028329 and ISIC_0025322.
+rosendahl, rosendahl
+age: 80.0 != 65.0
+sex: female != male
+
+[0.9615] Lesion IDs do not match for ISIC_0027879 and ISIC_0030863.
+vidir_molemax, vidir_molemax
+age: 40.0 != 55.0
+localization: lower extremity != trunk
+
+[0.9614] Lesion IDs do not match for ISIC_0033793 and ISIC_0034136.
+vidir_modern, vidir_modern
+age: 70.0 != 60.0
+sex: male != female
+
+[0.9613] Lesion IDs do not match for ISIC_0028765 and ISIC_0024833.
+rosendahl, rosendahl
+age: 80.0 != 65.0
+
+[0.9613] Lesion IDs do not match for ISIC_0027802 and ISIC_0031672.
+rosendahl, rosendahl
+age: 50.0 != 55.0
+sex: male != female
+
+[0.9611] Lesion IDs do not match for ISIC_0026395 and ISIC_0031515.
+vidir_modern, vidir_modern
+dx: bcc != nv
+age: 50.0 != 55.0
+localization: back != upper extremity
+
+[0.9610] Lesion IDs do not match for ISIC_0032546 and ISIC_0033120.
+vidir_modern, vidir_modern
+dx: nv != mel
+age: 55.0 != 45.0
+localization: back != upper extremity
+
+[0.9609] Lesion IDs do not match for ISIC_0025083 and ISIC_0026827.
+rosendahl, rosendahl
+age: 55.0 != 60.0
+sex: male != female
+
+[0.9609] Lesion IDs do not match for ISIC_0027684 and ISIC_0032158.
+vidir_modern, vidir_modern
+
+[0.9602] Lesion IDs do not match for ISIC_0031145 and ISIC_0027878.
+vidir_modern, vidir_modern
+age: 45.0 != 40.0
+localization: lower extremity != trunk
+
+[0.9601] Lesion IDs do not match for ISIC_0025323 and ISIC_0025141.
+vidir_modern, vidir_modern
+
+[0.9600] Lesion IDs do not match for ISIC_0029844 and ISIC_0029367.
+vidir_molemax, vidir_molemax
+age: 40.0 != 45.0
+sex: male != female
+localization: back != trunk
+
+[0.9598] Lesion IDs do not match for ISIC_0028277 and ISIC_0032465.
+vidir_molemax, vidir_molemax
+age: 55.0 != 30.0
+localization: back != trunk
+
+[0.9596] Lesion IDs do not match for ISIC_0033836 and ISIC_0034200.
+vidir_modern, vidir_modern
+dx_type: histo != consensus
+sex: female != male
+localization: lower extremity != unknown
+
+[0.9592] Lesion IDs do not match for ISIC_0033883 and ISIC_0032913.
+vidir_modern, vidir_modern
+age: 55.0 != 85.0
+localization: back != abdomen
+
+[0.9592] Lesion IDs do not match for ISIC_0034264 and ISIC_0034044.
+vidir_modern, vidir_modern
+age: 45.0 != 30.0
+sex: female != male
+localization: upper extremity != trunk
+
+[0.9589] Lesion IDs do not match for ISIC_0033268 and ISIC_0033576.
+vidir_modern, vidir_modern
+dx: mel != bkl
+age: 50.0 != 85.0
+sex: female != male
+localization: lower extremity != trunk
+
+[0.9585] Lesion IDs do not match for ISIC_0029030 and ISIC_0031791.
+vidir_modern, vidir_modern
+age: 55.0 != 50.0
+
+[0.9583] Lesion IDs do not match for ISIC_0026912 and ISIC_0024490.
+vidir_modern, vidir_modern
+dx_type: confocal != consensus
+age: 85.0 != 75.0
+sex: female != male
+
+[0.9580] Lesion IDs do not match for ISIC_0025725 and ISIC_0027683.
+vidir_molemax, vidir_molemax
+
+[0.9579] Lesion IDs do not match for ISIC_0032072 and ISIC_0025605.
+rosendahl, rosendahl
+dx: mel != akiec
+age: 65.0 != 60.0
+localization: back != lower extremity
+
+[0.9579] Lesion IDs do not match for ISIC_0024461 and ISIC_0030380.
+rosendahl, vidir_molemax
+dx: bcc != nv
+dx_type: histo != follow_up
+sex: female != male
+localization: foot != upper extremity
+dataset: rosendahl != vidir_molemax
+
+[0.9578] Lesion IDs do not match for ISIC_0029270 and ISIC_0027162.
+vidir_modern, vidir_modern
+dx_type: consensus != confocal
+age: 55.0 != 70.0
+sex: female != male
+
+[0.9574] Lesion IDs do not match for ISIC_0031373 and ISIC_0027272.
+vidir_molemax, vidir_molemax
+age: 60.0 != 45.0
+localization: trunk != lower extremity
+
+[0.9574] Lesion IDs do not match for ISIC_0028008 and ISIC_0032009.
+vidir_modern, vidir_modern
+dx_type: consensus != histo
+age: 55.0 != 40.0
+
+[0.9573] Lesion IDs do not match for ISIC_0024762 and ISIC_0026395.
+vidir_modern, vidir_modern
+dx: nv != bcc
+dx_type: consensus != histo
+age: 55.0 != 50.0
+sex: male != female
+
+[0.9572] Lesion IDs do not match for ISIC_0031227 and ISIC_0030886.
+vidir_molemax, vidir_molemax
+age: 40.0 != 45.0
+sex: male != female
+localization: back != trunk
+
+[0.9571] Lesion IDs do not match for ISIC_0028130 and ISIC_0026301.
+rosendahl, rosendahl
+dx: nv != bkl
+age: 50.0 != 65.0
+sex: female != male
+
+[0.9569] Lesion IDs do not match for ISIC_0032297 and ISIC_0025561.
+vidir_molemax, vidir_molemax
+age: 75.0 != 40.0
+
+[0.9569] Lesion IDs do not match for ISIC_0027162 and ISIC_0029061.
+vidir_modern, vidir_modern
+dx_type: confocal != consensus
+sex: male != female
+
+[0.9569] Lesion IDs do not match for ISIC_0033852 and ISIC_0033120.
+vidir_modern, vidir_modern
+dx: nv != mel
+localization: trunk != upper extremity
+
+[0.9567] Lesion IDs do not match for ISIC_0027659 and ISIC_0029409.
+vidir_modern, vidir_modern
+dx: mel != nv
+age: 70.0 != 55.0
+localization: back != upper extremity
+
+[0.9567] Lesion IDs do not match for ISIC_0028413 and ISIC_0028008.
+vidir_modern, vidir_modern
+dx_type: histo != consensus
+age: 50.0 != 55.0
+sex: female != male
+
+[0.9566] Lesion IDs do not match for ISIC_0029021 and ISIC_0029978.
+rosendahl, rosendahl
+dx: mel != nv
+age: 65.0 != 40.0
+localization: back != chest
+
+[0.9565] Lesion IDs do not match for ISIC_0030044 and ISIC_0024401.
+vidir_molemax, vidir_molemax
+
+[0.9564] Lesion IDs do not match for ISIC_0024602 and ISIC_0032283.
+vidir_modern, vidir_modern
+dx_type: consensus != histo
+
+[0.9564] Lesion IDs do not match for ISIC_0033213 and ISIC_0032548.
+vidir_modern, vidir_modern
+age: 55.0 != 35.0
+localization: lower extremity != back
+
+[0.9562] Lesion IDs do not match for ISIC_0032174 and ISIC_0031925.
+rosendahl, rosendahl
+localization: back != lower extremity
+
+[0.9561] Lesion IDs do not match for ISIC_0028380 and ISIC_0028531.
+vidir_modern, vidir_modern
+age: 15.0 != 30.0
+localization: back != abdomen
+
+[0.9560] Lesion IDs do not match for ISIC_0027183 and ISIC_0025295.
+rosendahl, rosendahl
+age: 25.0 != 80.0
+localization: upper extremity != back
+
+[0.9560] Lesion IDs do not match for ISIC_0030605 and ISIC_0026045.
+rosendahl, rosendahl
+dx: bkl != mel
+age: 85.0 != 65.0
+localization: back != upper extremity
+
+[0.9559] Lesion IDs do not match for ISIC_0033595 and ISIC_0032560.
+vidir_modern, vidir_modern
+dx: mel != nv
+age: 70.0 != 40.0
+localization: upper extremity != chest
+
+[0.9558] Lesion IDs do not match for ISIC_0030380 and ISIC_0030637.
+vidir_molemax, vidir_molemax
+age: 80.0 != 85.0
+localization: upper extremity != trunk
+
+[0.9558] Lesion IDs do not match for ISIC_0032661 and ISIC_0032851.
+vidir_modern, vidir_modern
+age: 70.0 != 40.0
+localization: trunk != abdomen
+
+[0.9557] Lesion IDs do not match for ISIC_0026006 and ISIC_0027645.
+vidir_modern, vidir_modern
+age: 40.0 != 50.0
+localization: face != neck
+
+[0.9557] Lesion IDs do not match for ISIC_0033959 and ISIC_0033526.
+vidir_modern, vidir_modern
+dx: nv != mel
+sex: male != female
+localization: upper extremity != back
+
+[0.9556] Lesion IDs do not match for ISIC_0030781 and ISIC_0031461.
+vidir_molemax, vidir_molemax
+age: 50.0 != 35.0
+localization: back != trunk
+
+[0.9556] Lesion IDs do not match for ISIC_0031746 and ISIC_0025605.
+rosendahl, rosendahl
+dx: mel != akiec
+age: 85.0 != 60.0
+sex: male != female
+localization: chest != lower extremity
+
+[0.9555] Lesion IDs do not match for ISIC_0024953 and ISIC_0026557.
+vidir_molemax, vidir_molemax
+age: 45.0 != 50.0
+localization: trunk != back
+
+[0.9555] Lesion IDs do not match for ISIC_0031515 and ISIC_0028195.
+vidir_modern, vidir_modern
+age: 55.0 != 35.0
+
+[0.9555] Lesion IDs do not match for ISIC_0029625 and ISIC_0024629.
+vidir_molemax, vidir_molemax
+
+[0.9555] Lesion IDs do not match for ISIC_0029164 and ISIC_0032259.
+vidir_molemax, vidir_molemax
+age: 65.0 != 50.0
+localization: back != trunk
+
+[0.9550] Lesion IDs do not match for ISIC_0029832 and ISIC_0031571.
+vidir_molemax, vidir_molemax
+age: 35.0 != 40.0
+sex: male != female
+localization: back != trunk
+
+[0.9550] Lesion IDs do not match for ISIC_0028195 and ISIC_0024911.
+vidir_modern, vidir_modern
+dx: nv != mel
+age: 35.0 != 45.0
+localization: upper extremity != back
+
+[0.9549] Lesion IDs do not match for ISIC_0026174 and ISIC_0026276.
+vidir_modern, vidir_modern
+dx_type: consensus != confocal
+age: 65.0 != 75.0
+sex: male != female
+
+[0.9549] Lesion IDs do not match for ISIC_0033883 and ISIC_0032810.
+vidir_modern, vidir_modern
+age: 55.0 != 70.0
+localization: back != upper extremity
+
+[0.9548] Lesion IDs do not match for ISIC_0031444 and ISIC_0032004.
+vidir_molemax, vidir_molemax
+age: 65.0 != 50.0
+localization: upper extremity != lower extremity
+
+[0.9547] Lesion IDs do not match for ISIC_0031323 and ISIC_0032082.
+vidir_modern, vidir_modern
+dx_type: consensus != histo
+age: 30.0 != 55.0
+localization: scalp != back
+
+[0.9547] Lesion IDs do not match for ISIC_0032759 and ISIC_0034114.
+vidir_modern, vidir_modern
+
+[0.9547] Lesion IDs do not match for ISIC_0025658 and ISIC_0026808.
+vidir_molemax, vidir_molemax
+age: 60.0 != 55.0
+sex: male != female
+
+[0.9547] Lesion IDs do not match for ISIC_0033420 and ISIC_0031146.
+vidir_modern, rosendahl
+dx: nv != mel
+age: 70.0 != 20.0
+sex: male != female
+localization: trunk != chest
+dataset: vidir_modern != rosendahl
+
+[0.9546] Lesion IDs do not match for ISIC_0030000 and ISIC_0031392.
+vidir_molemax, vidir_molemax
+
+[0.9545] Lesion IDs do not match for ISIC_0025271 and ISIC_0024821.
+vidir_modern, vidir_modern
+
+[0.9545] Lesion IDs do not match for ISIC_0027783 and ISIC_0030847.
+rosendahl, rosendahl
+age: 50.0 != 65.0
+sex: female != male
+localization: abdomen != lower extremity
+
+[0.9544] Lesion IDs do not match for ISIC_0030310 and ISIC_0027018.
+rosendahl, rosendahl
+age: 65.0 != 45.0
+localization: neck != back
+
+[0.9543] Lesion IDs do not match for ISIC_0027940 and ISIC_0025625.
+vidir_molemax, vidir_molemax
+sex: male != female
+localization: back != trunk
+
+[0.9542] Lesion IDs do not match for ISIC_0024642 and ISIC_0027878.
+vidir_modern, vidir_modern
+age: 55.0 != 40.0
+localization: abdomen != trunk
+
+[0.9542] Lesion IDs do not match for ISIC_0031056 and ISIC_0028329.
+rosendahl, rosendahl
+age: 65.0 != 80.0
+localization: lower extremity != upper extremity
+
+[0.9542] Lesion IDs do not match for ISIC_0027272 and ISIC_0027378.
+vidir_molemax, vidir_molemax
+age: 45.0 != 65.0
+
+[0.9541] Lesion IDs do not match for ISIC_0024437 and ISIC_0031299.
+vidir_modern, vidir_modern
+
+[0.9540] Lesion IDs do not match for ISIC_0025750 and ISIC_0025725.
+vidir_molemax, vidir_molemax
+age: 45.0 != 55.0
+sex: male != female
+localization: abdomen != trunk
+
+[0.9540] Lesion IDs do not match for ISIC_0029691 and ISIC_0032282.
+vidir_molemax, vidir_molemax
+age: 50.0 != 40.0
+localization: trunk != back
+
+[0.9540] Lesion IDs do not match for ISIC_0033363 and ISIC_0033712.
+vidir_modern, vidir_modern
+age: 50.0 != 60.0
+sex: male != female
+
+[0.9539] Lesion IDs do not match for ISIC_0030911 and ISIC_0028302.
+vidir_molemax, vidir_molemax
+age: 40.0 != 35.0
+localization: trunk != lower extremity
+
+[0.9539] Lesion IDs do not match for ISIC_0031441 and ISIC_0025725.
+vidir_molemax, vidir_molemax
+sex: male != female
+
+[0.9538] Lesion IDs do not match for ISIC_0029691 and ISIC_0027553.
+vidir_molemax, vidir_molemax
+age: 50.0 != 80.0
+sex: female != male
+localization: trunk != upper extremity
+
+[0.9536] Lesion IDs do not match for ISIC_0034100 and ISIC_0033510.
+vidir_modern, vidir_modern
+dx: mel != nv
+age: 65.0 != 55.0
+localization: face != back
+
+[0.9536] Lesion IDs do not match for ISIC_0024911 and ISIC_0024762.
+vidir_modern, vidir_modern
+dx: mel != nv
+dx_type: histo != consensus
+age: 45.0 != 55.0
+sex: female != male
+
+[0.9536] Lesion IDs do not match for ISIC_0027211 and ISIC_0024821.
+vidir_modern, vidir_modern
+age: 75.0 != 65.0
+sex: female != male
+
+[0.9535] Lesion IDs do not match for ISIC_0026519 and ISIC_0031145.
+vidir_modern, vidir_modern
+age: 40.0 != 45.0
+sex: male != female
+
+[0.9535] Lesion IDs do not match for ISIC_0031151 and ISIC_0025084.
+vidir_molemax, vidir_molemax
+sex: female != male
+localization: trunk != back
+
+[0.9534] Lesion IDs do not match for ISIC_0027719 and ISIC_0024461.
+rosendahl, rosendahl
+dx: akiec != bcc
+age: 60.0 != 80.0
+sex: male != female
+localization: back != foot
+
+[0.9534] Lesion IDs do not match for ISIC_0032282 and ISIC_0032147.
+vidir_molemax, vidir_molemax
+age: 40.0 != 30.0
+sex: female != male
+
+[0.9533] Lesion IDs do not match for ISIC_0029952 and ISIC_0025788.
+vidir_molemax, vidir_molemax
+age: 30.0 != 65.0
+localization: trunk != back
+
+[0.9533] Lesion IDs do not match for ISIC_0027204 and ISIC_0031888.
+rosendahl, vidir_modern
+dx: mel != bkl
+dx_type: histo != confocal
+age: 70.0 != 85.0
+sex: male != female
+localization: neck != face
+dataset: rosendahl != vidir_modern
+
+[0.9532] Lesion IDs do not match for ISIC_0027098 and ISIC_0025295.
+rosendahl, rosendahl
+age: 70.0 != 80.0
+
+[0.9531] Lesion IDs do not match for ISIC_0030804 and ISIC_0025725.
+vidir_molemax, vidir_molemax
+age: 50.0 != 55.0
+
+[0.9531] Lesion IDs do not match for ISIC_0034165 and ISIC_0033583.
+vidir_modern, vidir_modern
+dx_type: consensus != histo
+localization: lower extremity != face
+
+[0.9528] Lesion IDs do not match for ISIC_0031314 and ISIC_0030605.
+rosendahl, rosendahl
+dx: nv != bkl
+age: 55.0 != 85.0
+
+[0.9528] Lesion IDs do not match for ISIC_0033115 and ISIC_0033105.
+vidir_modern, vidir_modern
+dx_type: histo != consensus
+age: 50.0 != 45.0
+localization: lower extremity != unknown
+
+[0.9528] Lesion IDs do not match for ISIC_0031045 and ISIC_0027900.
+rosendahl, rosendahl
+dx: nv != mel
+age: 45.0 != 40.0
+localization: upper extremity != lower extremity
+
+[0.9528] Lesion IDs do not match for ISIC_0027703 and ISIC_0029677.
+vidir_molemax, vidir_molemax
+age: 50.0 != 35.0
+sex: female != male
+
+[0.9527] Lesion IDs do not match for ISIC_0033439 and ISIC_0034264.
+vidir_modern, vidir_modern
+age: 30.0 != 45.0
+localization: back != upper extremity
+
+[0.9526] Lesion IDs do not match for ISIC_0032280 and ISIC_0030605.
+rosendahl, rosendahl
+age: 60.0 != 85.0
+sex: female != male
+localization: lower extremity != back
+
+[0.9526] Lesion IDs do not match for ISIC_0034102 and ISIC_0033409.
+vidir_modern, vidir_modern
+age: 35.0 != 30.0
+sex: male != female
+localization: trunk != lower extremity
+
+[0.9525] Lesion IDs do not match for ISIC_0025591 and ISIC_0027168.
+vidir_molemax, vidir_molemax
+age: 60.0 != 30.0
+localization: trunk != back
+
+[0.9525] Lesion IDs do not match for ISIC_0027466 and ISIC_0033981.
+rosendahl, vidir_modern
+dx: nv != mel
+dataset: rosendahl != vidir_modern
+
+[0.9525] Lesion IDs do not match for ISIC_0033253 and ISIC_0032653.
+vidir_modern, vidir_modern
+dx: nv != mel
+age: 40.0 != 20.0
+sex: female != male
+
+[0.9525] Lesion IDs do not match for ISIC_0033896 and ISIC_0033690.
+vidir_modern, vidir_modern
+
+[0.9525] Lesion IDs do not match for ISIC_0031372 and ISIC_0025622.
+vidir_modern, vidir_modern
+
+[0.9524] Lesion IDs do not match for ISIC_0028461 and ISIC_0026519.
+vidir_modern, vidir_modern
+age: 60.0 != 40.0
+sex: female != male
+
+[0.9524] Lesion IDs do not match for ISIC_0028051 and ISIC_0031709.
+rosendahl, rosendahl
+age: 45.0 != 65.0
+localization: back != neck
+
+[0.9524] Lesion IDs do not match for ISIC_0029115 and ISIC_0024632.
+rosendahl, rosendahl
+dx: bkl != bcc
+age: 60.0 != 70.0
+localization: lower extremity != upper extremity
+
+[0.9523] Lesion IDs do not match for ISIC_0026018 and ISIC_0032036.
+rosendahl, rosendahl
+dx: bkl != mel
+sex: male != female
+localization: back != lower extremity
+
+[0.9522] Lesion IDs do not match for ISIC_0025783 and ISIC_0030069.
+rosendahl, rosendahl
+dx: mel != nv
+age: 65.0 != 75.0
+
+[0.9521] Lesion IDs do not match for ISIC_0025084 and ISIC_0025725.
+vidir_molemax, vidir_molemax
+age: 45.0 != 55.0
+sex: male != female
+localization: back != trunk
+
+[0.9521] Lesion IDs do not match for ISIC_0029462 and ISIC_0030700.
+rosendahl, rosendahl
+dx: akiec != bkl
+age: 60.0 != 70.0
+sex: male != female
+localization: back != upper extremity
+
+[0.9521] Lesion IDs do not match for ISIC_0024427 and ISIC_0031790.
+vidir_molemax, vidir_molemax
+age: 65.0 != 70.0
+localization: abdomen != trunk
+
+[0.9521] Lesion IDs do not match for ISIC_0027098 and ISIC_0027183.
+rosendahl, rosendahl
+age: 70.0 != 25.0
+localization: back != upper extremity
+
+[0.9520] Lesion IDs do not match for ISIC_0033674 and ISIC_0033070.
+vidir_modern, vidir_modern
+age: 50.0 != 40.0
+
+[0.9519] Lesion IDs do not match for ISIC_0034132 and ISIC_0033863.
+vidir_modern, vidir_modern
+age: 70.0 != 65.0
+localization: lower extremity != back
+
+[0.9518] Lesion IDs do not match for ISIC_0032174 and ISIC_0025576.
+rosendahl, rosendahl
+age: 75.0 != 55.0
+
+[0.9518] Lesion IDs do not match for ISIC_0029886 and ISIC_0032296.
+vidir_molemax, vidir_molemax
+age: 55.0 != 40.0
+localization: lower extremity != trunk
+
+[0.9518] Lesion IDs do not match for ISIC_0033863 and ISIC_0032984.
+vidir_modern, vidir_modern
+age: 65.0 != 70.0
+sex: female != male
+
+[0.9517] Lesion IDs do not match for ISIC_0029055 and ISIC_0024675.
+vidir_modern, vidir_modern
+dx: nv != mel
+dx_type: consensus != histo
+age: 35.0 != 65.0
+
+[0.9517] Lesion IDs do not match for ISIC_0033374 and ISIC_0033417.
+vidir_modern, vidir_modern
+age: nan != nan
+
+[0.9517] Lesion IDs do not match for ISIC_0031732 and ISIC_0030850.
+vidir_molemax, vidir_molemax
+age: 30.0 != 45.0
+localization: lower extremity != abdomen
+
+[0.9516] Lesion IDs do not match for ISIC_0029030 and ISIC_0026395.
+vidir_modern, vidir_modern
+dx: nv != bcc
+dx_type: consensus != histo
+age: 55.0 != 50.0
+
+[0.9516] Lesion IDs do not match for ISIC_0031925 and ISIC_0024743.
+rosendahl, rosendahl
+age: 75.0 != 65.0
+sex: male != female
+
+[0.9516] Lesion IDs do not match for ISIC_0031323 and ISIC_0026519.
+vidir_modern, vidir_modern
+dx_type: consensus != histo
+age: 30.0 != 40.0
+sex: female != male
+localization: scalp != lower extremity
+
+[0.9515] Lesion IDs do not match for ISIC_0033852 and ISIC_0033547.
+vidir_modern, vidir_modern
+age: 45.0 != 35.0
+localization: trunk != upper extremity
+
+[0.9515] Lesion IDs do not match for ISIC_0031338 and ISIC_0027464.
+vidir_molemax, vidir_molemax
+age: 55.0 != 40.0
+localization: back != lower extremity
+
+[0.9515] Lesion IDs do not match for ISIC_0029830 and ISIC_0028350.
+rosendahl, rosendahl
+dx: akiec != bcc
+age: 60.0 != 70.0
+sex: male != female
+localization: face != back
+
+[0.9515] Lesion IDs do not match for ISIC_0026921 and ISIC_0028859.
+rosendahl, rosendahl
+age: 70.0 != 60.0
+sex: female != male
+localization: back != upper extremity
+
+[0.9514] Lesion IDs do not match for ISIC_0024463 and ISIC_0030026.
+rosendahl, rosendahl
+dx: akiec != bkl
+age: 50.0 != 75.0
+sex: male != female
+localization: upper extremity != face
+
+[0.9514] Lesion IDs do not match for ISIC_0031151 and ISIC_0030886.
+vidir_molemax, vidir_molemax
+
+[0.9514] Lesion IDs do not match for ISIC_0024489 and ISIC_0024909.
+vidir_modern, vidir_modern
+dx_type: confocal != consensus
+age: 75.0 != 85.0
+
+[0.9514] Lesion IDs do not match for ISIC_0026020 and ISIC_0027377.
+vidir_molemax, vidir_molemax
+
+[0.9512] Lesion IDs do not match for ISIC_0029355 and ISIC_0025816.
+vidir_modern, vidir_modern
+age: 50.0 != 75.0
+sex: female != male
+
+[0.9512] Lesion IDs do not match for ISIC_0027357 and ISIC_0026791.
+vidir_molemax, vidir_molemax
+age: 50.0 != 60.0
+sex: male != female
+localization: back != trunk
+
+[0.9512] Lesion IDs do not match for ISIC_0031791 and ISIC_0031323.
+vidir_modern, vidir_modern
+age: 50.0 != 30.0
+localization: back != scalp
+
+[0.9511] Lesion IDs do not match for ISIC_0032009 and ISIC_0029030.
+vidir_modern, vidir_modern
+dx_type: histo != consensus
+age: 40.0 != 55.0
+sex: male != female
+localization: upper extremity != back
+
+[0.9511] Lesion IDs do not match for ISIC_0029409 and ISIC_0028195.
+vidir_modern, vidir_modern
+age: 55.0 != 35.0
+sex: male != female
+
+[0.9511] Lesion IDs do not match for ISIC_0026404 and ISIC_0026466.
+rosendahl, rosendahl
+dx: nv != akiec
+age: 60.0 != 65.0
+sex: male != female
+localization: back != upper extremity
+
+[0.9511] Lesion IDs do not match for ISIC_0033589 and ISIC_0028317.
+vidir_modern, vidir_modern
+dx: nv != mel
+dx_type: consensus != histo
+age: 50.0 != 65.0
+localization: chest != face
+
+[0.9510] Lesion IDs do not match for ISIC_0032259 and ISIC_0024974.
+vidir_molemax, vidir_molemax
+age: 50.0 != 40.0
+
+[0.9510] Lesion IDs do not match for ISIC_0025265 and ISIC_0033120.
+vidir_modern, vidir_modern
+age: 30.0 != 45.0
+localization: back != upper extremity
+
+[0.9510] Lesion IDs do not match for ISIC_0026252 and ISIC_0027156.
+vidir_molemax, vidir_molemax
+age: 45.0 != 50.0
+sex: male != female
+localization: chest != trunk
+
+[0.9510] Lesion IDs do not match for ISIC_0031478 and ISIC_0025783.
+vidir_molemax, rosendahl
+dx: nv != mel
+dx_type: follow_up != histo
+age: 55.0 != 65.0
+localization: abdomen != back
+dataset: vidir_molemax != rosendahl
+
+[0.9510] Lesion IDs do not match for ISIC_0028979 and ISIC_0025187.
+vidir_molemax, vidir_molemax
+age: 40.0 != 60.0
+sex: male != female
+localization: lower extremity != back
+
+[0.9509] Lesion IDs do not match for ISIC_0033050 and ISIC_0033518.
+vidir_modern, vidir_modern
+age: 75.0 != 80.0
+sex: female != male
+localization: back != upper extremity
+
+[0.9509] Lesion IDs do not match for ISIC_0024974 and ISIC_0029691.
+vidir_molemax, vidir_molemax
+age: 40.0 != 50.0
+sex: male != female
+
+[0.9508] Lesion IDs do not match for ISIC_0029995 and ISIC_0026492.
+rosendahl, rosendahl
+dx: mel != akiec
+age: 65.0 != 70.0
+localization: back != upper extremity
+
+[0.9507] Lesion IDs do not match for ISIC_0031895 and ISIC_0025107.
+vidir_molemax, vidir_molemax
+age: 50.0 != 55.0
+localization: upper extremity != lower extremity
+
+[0.9507] Lesion IDs do not match for ISIC_0025971 and ISIC_0032174.
+rosendahl, rosendahl
+age: 45.0 != 75.0
+
+[0.9506] Lesion IDs do not match for ISIC_0033070 and ISIC_0032702.
+vidir_modern, vidir_modern
+age: 40.0 != 65.0
+sex: female != male
+localization: back != lower extremity
+
+[0.9506] Lesion IDs do not match for ISIC_0026510 and ISIC_0029322.
+vidir_molemax, vidir_molemax
+age: 70.0 != 50.0
+
+[0.9506] Lesion IDs do not match for ISIC_0031514 and ISIC_0032465.
+vidir_molemax, vidir_molemax
+age: 50.0 != 30.0
+sex: male != female
+
+[0.9506] Lesion IDs do not match for ISIC_0025714 and ISIC_0027926.
+vidir_molemax, vidir_molemax
+age: 20.0 != 55.0
+sex: male != female
+localization: back != abdomen
+
+[0.9506] Lesion IDs do not match for ISIC_0032158 and ISIC_0032334.
+vidir_modern, vidir_modern
+age: 45.0 != 40.0
+sex: female != male
+
+[0.9506] Lesion IDs do not match for ISIC_0030741 and ISIC_0024675.
+vidir_modern, vidir_modern
+dx: nv != mel
+age: 35.0 != 65.0
+localization: abdomen != lower extremity
+
+[0.9504] Lesion IDs do not match for ISIC_0032707 and ISIC_0033478.
+vidir_modern, vidir_modern
+
+[0.9504] Lesion IDs do not match for ISIC_0028277 and ISIC_0029886.
+vidir_molemax, vidir_molemax
+localization: back != lower extremity
+
+[0.9504] Lesion IDs do not match for ISIC_0031900 and ISIC_0032174.
+rosendahl, rosendahl
+dx: mel != bcc
+age: 55.0 != 75.0
+
+[0.9504] Lesion IDs do not match for ISIC_0034205 and ISIC_0033070.
+vidir_modern, vidir_modern
+dx: mel != nv
+age: 55.0 != 40.0
+localization: upper extremity != back
+
+[0.9504] Lesion IDs do not match for ISIC_0034224 and ISIC_0034132.
+vidir_modern, vidir_modern
+dx: nv != mel
+age: 30.0 != 70.0
+localization: back != lower extremity
+
+[0.9504] Lesion IDs do not match for ISIC_0029252 and ISIC_0029549.
+rosendahl, rosendahl
+dx: nv != akiec
+age: 65.0 != 70.0
+
+[0.9503] Lesion IDs do not match for ISIC_0032742 and ISIC_0033120.
+vidir_modern, vidir_modern
+dx: nv != mel
+age: 30.0 != 45.0
+sex: female != male
+
+[0.9503] Lesion IDs do not match for ISIC_0034058 and ISIC_0026687.
+vidir_modern, rosendahl
+age: 70.0 != 60.0
+localization: back != lower extremity
+dataset: vidir_modern != rosendahl
+
+[0.9503] Lesion IDs do not match for ISIC_0032036 and ISIC_0028548.
+rosendahl, rosendahl
+age: 65.0 != 60.0
+localization: lower extremity != back
+
+[0.9502] Lesion IDs do not match for ISIC_0032444 and ISIC_0030603.
+rosendahl, rosendahl
+age: 65.0 != 75.0
+sex: male != female
+localization: back != upper extremity
+
+[0.9502] Lesion IDs do not match for ISIC_0026143 and ISIC_0024989.
+vidir_molemax, vidir_molemax
+sex: male != female
+localization: trunk != upper extremity
+
+[0.9501] Lesion IDs do not match for ISIC_0032334 and ISIC_0033363.
+vidir_modern, vidir_modern
+age: 40.0 != 50.0
+localization: back != upper extremity
+
+[0.9501] Lesion IDs do not match for ISIC_0025435 and ISIC_0025159.
+vidir_molemax, vidir_molemax
+age: 45.0 != 35.0
+localization: abdomen != back
+
+[0.9501] Lesion IDs do not match for ISIC_0024521 and ISIC_0032259.
+vidir_molemax, vidir_molemax
+age: 45.0 != 50.0
+sex: female != male
+
+[0.9501] Lesion IDs do not match for ISIC_0031913 and ISIC_0025874.
+rosendahl, rosendahl
+dx: nv != bkl
+age: 65.0 != 80.0
+localization: back != upper extremity
+
+[0.9501] Lesion IDs do not match for ISIC_0033681 and ISIC_0024461.
+vidir_modern, rosendahl
+dx: nv != bcc
+dx_type: consensus != histo
+age: 60.0 != 80.0
+sex: male != female
+localization: unknown != foot
+dataset: vidir_modern != rosendahl
+
+[0.9500] Lesion IDs do not match for ISIC_0030038 and ISIC_0031323.
+vidir_modern, vidir_modern
+localization: back != scalp
+
+[0.9500] Lesion IDs do not match for ISIC_0026912 and ISIC_0033863.
+vidir_modern, vidir_modern
+dx: bkl != mel
+dx_type: confocal != histo
+age: 85.0 != 65.0
+localization: face != back
+
+[0.9500] Lesion IDs do not match for ISIC_0026881 and ISIC_0030113.
+vidir_molemax, vidir_molemax
+age: 50.0 != 40.0
+sex: female != male
+
+[0.9500] Lesion IDs do not match for ISIC_0027844 and ISIC_0031305.
+vidir_molemax, vidir_molemax
+age: 50.0 != 45.0
+localization: back != abdomen
+
+[0.9500] Lesion IDs do not match for ISIC_0032320 and ISIC_0027272.
+vidir_molemax, vidir_molemax
+age: 50.0 != 45.0
+localization: trunk != lower extremity
+
+[0.9499] Lesion IDs do not match for ISIC_0032635 and ISIC_0033623.
+vidir_modern, vidir_modern
+
+[0.9499] Lesion IDs do not match for ISIC_0029978 and ISIC_0024461.
+rosendahl, rosendahl
+dx: nv != bcc
+age: 40.0 != 80.0
+localization: chest != foot
+
+[0.9498] Lesion IDs do not match for ISIC_0025653 and ISIC_0028436.
+vidir_modern, vidir_modern
+dx_type: consensus != histo
+
+[0.9498] Lesion IDs do not match for ISIC_0025572 and ISIC_0030380.
+vidir_molemax, vidir_molemax
+age: 50.0 != 80.0
+sex: female != male
+localization: trunk != upper extremity
+
+[0.9498] Lesion IDs do not match for ISIC_0024743 and ISIC_0032174.
+rosendahl, rosendahl
+age: 65.0 != 75.0
+sex: female != male
+localization: lower extremity != back
+
+[0.9498] Lesion IDs do not match for ISIC_0029032 and ISIC_0027379.
+rosendahl, rosendahl
+dx: bkl != nv
+age: 75.0 != 70.0
+localization: back != chest
+
+[0.9498] Lesion IDs do not match for ISIC_0028877 and ISIC_0029462.
+rosendahl, rosendahl
+dx: bcc != akiec
+age: 70.0 != 60.0
+sex: female != male
+
+[0.9497] Lesion IDs do not match for ISIC_0026264 and ISIC_0029477.
+vidir_molemax, vidir_molemax
+age: 75.0 != 85.0
+localization: upper extremity != trunk
+
+[0.9497] Lesion IDs do not match for ISIC_0026617 and ISIC_0030850.
+vidir_molemax, vidir_molemax
+age: 40.0 != 45.0
+sex: female != male
+localization: trunk != abdomen
+
+[0.9496] Lesion IDs do not match for ISIC_0033573 and ISIC_0033460.
+vidir_modern, vidir_modern
+dx: mel != bkl
+dx_type: histo != consensus
+age: 50.0 != 85.0
+localization: back != face
+
+[0.9495] Lesion IDs do not match for ISIC_0029160 and ISIC_0030425.
+rosendahl, rosendahl
+age: 60.0 != 55.0
+
+[0.9495] Lesion IDs do not match for ISIC_0031247 and ISIC_0032082.
+vidir_modern, vidir_modern
+localization: foot != back
+
+[0.9495] Lesion IDs do not match for ISIC_0031830 and ISIC_0029908.
+vidir_molemax, vidir_molemax
+age: 55.0 != 50.0
+localization: abdomen != trunk
+
+[0.9495] Lesion IDs do not match for ISIC_0032180 and ISIC_0032282.
+vidir_molemax, vidir_molemax
+age: 55.0 != 40.0
+
+[0.9494] Lesion IDs do not match for ISIC_0027546 and ISIC_0032444.
+rosendahl, rosendahl
+dx: bcc != nv
+
+[0.9493] Lesion IDs do not match for ISIC_0025788 and ISIC_0031736.
+vidir_molemax, vidir_molemax
+age: 65.0 != 50.0
+
+[0.9493] Lesion IDs do not match for ISIC_0026492 and ISIC_0032444.
+rosendahl, rosendahl
+dx: akiec != nv
+age: 70.0 != 65.0
+localization: upper extremity != back
+
+[0.9493] Lesion IDs do not match for ISIC_0032072 and ISIC_0026976.
+rosendahl, rosendahl
+age: 65.0 != 60.0
+sex: female != male
+
+[0.9493] Lesion IDs do not match for ISIC_0026275 and ISIC_0029924.
+vidir_modern, vidir_modern
+dx: bcc != bkl
+dx_type: histo != consensus
+age: 85.0 != 55.0
+sex: male != female
+
+[0.9493] Lesion IDs do not match for ISIC_0032456 and ISIC_0027771.
+rosendahl, rosendahl
+age: 55.0 != 60.0
+sex: male != female
+
+[0.9492] Lesion IDs do not match for ISIC_0028720 and ISIC_0027878.
+vidir_modern, vidir_modern
+dx_type: consensus != histo
+age: 5.0 != 40.0
+sex: male != female
+localization: lower extremity != trunk
+
+[0.9492] Lesion IDs do not match for ISIC_0032242 and ISIC_0025323.
+vidir_modern, vidir_modern
+dx_type: histo != consensus
+age: 35.0 != 60.0
+
+[0.9492] Lesion IDs do not match for ISIC_0027718 and ISIC_0028436.
+vidir_modern, vidir_modern
+age: 35.0 != 55.0
+sex: male != female
+localization: back != chest
+
+[0.9492] Lesion IDs do not match for ISIC_0033712 and ISIC_0024762.
+vidir_modern, vidir_modern
+dx_type: histo != consensus
+age: 60.0 != 55.0
+sex: female != male
+localization: upper extremity != back
+
+[0.9492] Lesion IDs do not match for ISIC_0027585 and ISIC_0027975.
+vidir_molemax, vidir_molemax
+age: 55.0 != 30.0
+sex: female != male
+
+[0.9492] Lesion IDs do not match for ISIC_0025214 and ISIC_0024336.
+rosendahl, rosendahl
+dx: nv != bkl
+age: 45.0 != 50.0
+sex: male != female
+localization: back != lower extremity
+
+[0.9491] Lesion IDs do not match for ISIC_0033905 and ISIC_0027466.
+vidir_modern, rosendahl
+dx: mel != nv
+dataset: vidir_modern != rosendahl
+
+[0.9491] Lesion IDs do not match for ISIC_0031716 and ISIC_0031925.
+rosendahl, rosendahl
+dx: bkl != bcc
+age: 70.0 != 75.0
+sex: female != male
+
+[0.9491] Lesion IDs do not match for ISIC_0031548 and ISIC_0027357.
+vidir_molemax, vidir_molemax
+age: 60.0 != 50.0
+
+[0.9491] Lesion IDs do not match for ISIC_0030288 and ISIC_0026065.
+vidir_molemax, vidir_molemax
+age: 55.0 != 65.0
+
+[0.9490] Lesion IDs do not match for ISIC_0024517 and ISIC_0029978.
+rosendahl, rosendahl
+dx: akiec != nv
+age: 65.0 != 40.0
+sex: male != female
+localization: back != chest
+
+[0.9490] Lesion IDs do not match for ISIC_0024490 and ISIC_0033526.
+vidir_modern, vidir_modern
+dx: bkl != mel
+dx_type: consensus != histo
+sex: male != female
+localization: face != back
+
+[0.9489] Lesion IDs do not match for ISIC_0031299 and ISIC_0028219.
+vidir_modern, vidir_modern
+dx: nv != mel
+dx_type: consensus != histo
+age: 55.0 != 45.0
+sex: female != male
+localization: chest != upper extremity
+
+[0.9489] Lesion IDs do not match for ISIC_0033253 and ISIC_0033497.
+vidir_modern, vidir_modern
+age: 40.0 != 35.0
+localization: back != abdomen
+
+[0.9489] Lesion IDs do not match for ISIC_0029536 and ISIC_0031436.
+vidir_molemax, vidir_molemax
+dx: nv != bkl
+dx_type: follow_up != consensus
+age: 70.0 != 75.0
+sex: female != male
+localization: trunk != upper extremity
+
+[0.9488] Lesion IDs do not match for ISIC_0029830 and ISIC_0028877.
+rosendahl, rosendahl
+dx: akiec != bcc
+age: 60.0 != 70.0
+sex: male != female
+localization: face != back
+
+[0.9488] Lesion IDs do not match for ISIC_0029839 and ISIC_0027466.
+rosendahl, rosendahl
+dx: mel != nv
+age: 65.0 != 45.0
+sex: male != female
+localization: back != upper extremity
+
+[0.9488] Lesion IDs do not match for ISIC_0030591 and ISIC_0029342.
+rosendahl, rosendahl
+dx: akiec != bcc
+age: 75.0 != 65.0
+
+[0.9488] Lesion IDs do not match for ISIC_0024346 and ISIC_0024455.
+vidir_molemax, vidir_molemax
+age: 50.0 != 45.0
+localization: trunk != upper extremity
+
+[0.9488] Lesion IDs do not match for ISIC_0034205 and ISIC_0033852.
+vidir_modern, vidir_modern
+dx: mel != nv
+age: 55.0 != 45.0
+sex: female != male
+localization: upper extremity != trunk
+
+[0.9488] Lesion IDs do not match for ISIC_0027062 and ISIC_0024586.
+vidir_modern, vidir_modern
+dx: nv != mel
+age: 70.0 != 60.0
+localization: upper extremity != lower extremity
+
+[0.9488] Lesion IDs do not match for ISIC_0031013 and ISIC_0031972.
+vidir_modern, vidir_modern
+
+[0.9487] Lesion IDs do not match for ISIC_0033752 and ISIC_0033460.
+vidir_modern, vidir_modern
+dx: mel != bkl
+dx_type: histo != consensus
+age: 50.0 != 85.0
+sex: female != male
+
+[0.9487] Lesion IDs do not match for ISIC_0032418 and ISIC_0024557.
+vidir_molemax, vidir_molemax
+age: 55.0 != 40.0
+sex: female != male
+
+[0.9486] Lesion IDs do not match for ISIC_0031663 and ISIC_0031145.
+vidir_modern, vidir_modern
+age: 40.0 != 45.0
+localization: abdomen != lower extremity
+
+[0.9486] Lesion IDs do not match for ISIC_0032476 and ISIC_0031005.
+rosendahl, rosendahl
+age: 60.0 != 65.0
+
+[0.9486] Lesion IDs do not match for ISIC_0026251 and ISIC_0028413.
+vidir_modern, vidir_modern
+age: 30.0 != 50.0
+localization: face != upper extremity
+
+[0.9486] Lesion IDs do not match for ISIC_0031246 and ISIC_0026292.
+vidir_molemax, vidir_molemax
+age: 55.0 != 45.0
+localization: abdomen != trunk
+
+[0.9486] Lesion IDs do not match for ISIC_0028304 and ISIC_0027451.
+rosendahl, rosendahl
+dx: nv != bkl
+age: 60.0 != 75.0
+localization: back != chest
+
+[0.9485] Lesion IDs do not match for ISIC_0025268 and ISIC_0030277.
+rosendahl, rosendahl
+age: 65.0 != 55.0
+sex: male != female
+
+[0.9485] Lesion IDs do not match for ISIC_0031224 and ISIC_0026899.
+vidir_molemax, vidir_molemax
+localization: lower extremity != trunk
+
+[0.9485] Lesion IDs do not match for ISIC_0027059 and ISIC_0031393.
+vidir_molemax, vidir_molemax
+age: 60.0 != 50.0
+localization: back != upper extremity
+
+[0.9485] Lesion IDs do not match for ISIC_0033652 and ISIC_0033941.
+vidir_modern, vidir_modern
+age: 60.0 != 40.0
+sex: male != female
+localization: trunk != back
+
+[0.9485] Lesion IDs do not match for ISIC_0032195 and ISIC_0026711.
+rosendahl, rosendahl
+localization: upper extremity != chest
+
+[0.9485] Lesion IDs do not match for ISIC_0030856 and ISIC_0028308.
+rosendahl, rosendahl
+dx: nv != bkl
+age: 65.0 != 50.0
+localization: back != chest
+
+[0.9484] Lesion IDs do not match for ISIC_0026018 and ISIC_0027098.
+rosendahl, rosendahl
+dx: bkl != nv
+age: 65.0 != 70.0
+
+[0.9484] Lesion IDs do not match for ISIC_0024362 and ISIC_0030068.
+vidir_molemax, vidir_molemax
+age: 50.0 != 45.0
+
+[0.9484] Lesion IDs do not match for ISIC_0032891 and ISIC_0033852.
+vidir_modern, vidir_modern
+age: 40.0 != 45.0
+localization: upper extremity != trunk
+
+[0.9484] Lesion IDs do not match for ISIC_0026283 and ISIC_0027272.
+vidir_molemax, vidir_molemax
+age: 50.0 != 45.0
+localization: trunk != lower extremity
+
+[0.9484] Lesion IDs do not match for ISIC_0029089 and ISIC_0027120.
+rosendahl, rosendahl
+dx: mel != bcc
+age: 70.0 != 80.0
+sex: male != female
+localization: back != lower extremity
+
+[0.9484] Lesion IDs do not match for ISIC_0028040 and ISIC_0027927.
+vidir_molemax, vidir_molemax
+age: 35.0 != 50.0
+
+[0.9483] Lesion IDs do not match for ISIC_0030616 and ISIC_0030026.
+rosendahl, rosendahl
+dx: mel != bkl
+age: 80.0 != 75.0
+localization: upper extremity != face
+
+[0.9483] Lesion IDs do not match for ISIC_0028346 and ISIC_0024461.
+rosendahl, rosendahl
+dx: df != bcc
+age: 65.0 != 80.0
+localization: lower extremity != foot
+
+[0.9483] Lesion IDs do not match for ISIC_0025551 and ISIC_0030050.
+vidir_molemax, vidir_molemax
+age: 45.0 != 50.0
+
+[0.9482] Lesion IDs do not match for ISIC_0032609 and ISIC_0033501.
+vidir_modern, vidir_modern
+age: 35.0 != 25.0
+sex: male != female
+
+[0.9482] Lesion IDs do not match for ISIC_0028974 and ISIC_0028084.
+vidir_molemax, rosendahl
+dx: nv != bcc
+dx_type: follow_up != histo
+age: 55.0 != 80.0
+localization: abdomen != back
+dataset: vidir_molemax != rosendahl
+
+[0.9482] Lesion IDs do not match for ISIC_0030337 and ISIC_0031151.
+vidir_molemax, vidir_molemax
+age: 40.0 != 45.0
+
+[0.9482] Lesion IDs do not match for ISIC_0025258 and ISIC_0032180.
+vidir_molemax, vidir_molemax
+localization: neck != back
+
+[0.9481] Lesion IDs do not match for ISIC_0034136 and ISIC_0032546.
+vidir_modern, vidir_modern
+age: 60.0 != 55.0
+sex: female != male
+
+[0.9481] Lesion IDs do not match for ISIC_0032750 and ISIC_0033905.
+vidir_modern, vidir_modern
+age: 50.0 != 45.0
+localization: lower extremity != upper extremity
+
+[0.9480] Lesion IDs do not match for ISIC_0032662 and ISIC_0033793.
+vidir_modern, vidir_modern
+dx: mel != nv
+localization: abdomen != back
+
+[0.9479] Lesion IDs do not match for ISIC_0027298 and ISIC_0031915.
+rosendahl, rosendahl
+dx: nv != mel
+age: 70.0 != 60.0
+
+[0.9479] Lesion IDs do not match for ISIC_0028911 and ISIC_0026082.
+vidir_molemax, vidir_molemax
+age: 40.0 != 55.0
+localization: trunk != lower extremity
+
+[0.9479] Lesion IDs do not match for ISIC_0030288 and ISIC_0025995.
+vidir_molemax, vidir_molemax
+age: 55.0 != 35.0
+sex: male != female
+
+[0.9479] Lesion IDs do not match for ISIC_0032126 and ISIC_0025284.
+rosendahl, vidir_molemax
+dx_type: histo != follow_up
+age: 50.0 != 75.0
+localization: back != trunk
+dataset: rosendahl != vidir_molemax
+
+[0.9479] Lesion IDs do not match for ISIC_0032797 and ISIC_0033363.
+vidir_modern, vidir_modern
+dx: mel != nv
+age: 70.0 != 50.0
+
+[0.9479] Lesion IDs do not match for ISIC_0027684 and ISIC_0033363.
+vidir_modern, vidir_modern
+age: 45.0 != 50.0
+sex: female != male
+localization: back != upper extremity
+
+[0.9478] Lesion IDs do not match for ISIC_0031900 and ISIC_0027546.
+rosendahl, rosendahl
+dx: mel != bcc
+age: 55.0 != 65.0
+
+[0.9478] Lesion IDs do not match for ISIC_0033878 and ISIC_0033460.
+vidir_modern, vidir_modern
+dx: mel != bkl
+dx_type: histo != consensus
+age: 80.0 != 85.0
+sex: female != male
+
+[0.9477] Lesion IDs do not match for ISIC_0027244 and ISIC_0033883.
+vidir_modern, vidir_modern
+dx: nv != mel
+sex: female != male
+localization: upper extremity != back
+
+[0.9477] Lesion IDs do not match for ISIC_0031314 and ISIC_0029638.
+rosendahl, rosendahl
+dx: nv != akiec
+age: 55.0 != 75.0
+sex: male != female
+localization: back != lower extremity
+
+[0.9477] Lesion IDs do not match for ISIC_0031227 and ISIC_0031571.
+vidir_molemax, vidir_molemax
+sex: male != female
+localization: back != trunk
+
+[0.9477] Lesion IDs do not match for ISIC_0029023 and ISIC_0024357.
+vidir_molemax, vidir_molemax
+sex: male != female
+localization: abdomen != trunk
+
+[0.9477] Lesion IDs do not match for ISIC_0031320 and ISIC_0028185.
+vidir_molemax, vidir_molemax
+localization: abdomen != lower extremity
+
+[0.9476] Lesion IDs do not match for ISIC_0034048 and ISIC_0033883.
+vidir_modern, vidir_modern
+age: 45.0 != 55.0
+sex: female != male
+localization: upper extremity != back
+
+[0.9476] Lesion IDs do not match for ISIC_0024909 and ISIC_0024408.
+vidir_modern, vidir_modern
+age: 85.0 != 35.0
+
+[0.9476] Lesion IDs do not match for ISIC_0032414 and ISIC_0032009.
+vidir_modern, vidir_modern
+dx: bcc != nv
+age: 75.0 != 40.0
+sex: female != male
+localization: lower extremity != upper extremity
+
+[0.9476] Lesion IDs do not match for ISIC_0027395 and ISIC_0029184.
+vidir_molemax, vidir_molemax
+
+[0.9476] Lesion IDs do not match for ISIC_0033575 and ISIC_0033460.
+vidir_modern, vidir_modern
+dx: bcc != bkl
+dx_type: histo != consensus
+age: 75.0 != 85.0
+sex: female != male
+
+[0.9476] Lesion IDs do not match for ISIC_0031646 and ISIC_0026395.
+vidir_modern, vidir_modern
+dx: nv != bcc
+age: 75.0 != 50.0
+sex: male != female
+localization: face != back
+
+[0.9475] Lesion IDs do not match for ISIC_0034102 and ISIC_0033283.
+vidir_modern, vidir_modern
+age: 35.0 != 40.0
+sex: male != female
+localization: trunk != lower extremity
+
+[0.9475] Lesion IDs do not match for ISIC_0029898 and ISIC_0027466.
+rosendahl, rosendahl
+age: 80.0 != 45.0
+sex: male != female
+localization: abdomen != upper extremity
+
+[0.9475] Lesion IDs do not match for ISIC_0027120 and ISIC_0032070.
+rosendahl, rosendahl
+dx: bcc != mel
+age: 80.0 != 60.0
+localization: lower extremity != back
+
+[0.9475] Lesion IDs do not match for ISIC_0032223 and ISIC_0024614.
+vidir_molemax, vidir_molemax
+age: 45.0 != 35.0
+localization: lower extremity != abdomen
+
+[0.9474] Lesion IDs do not match for ISIC_0030294 and ISIC_0028564.
+vidir_molemax, vidir_molemax
+age: 40.0 != 45.0
+
+[0.9474] Lesion IDs do not match for ISIC_0030946 and ISIC_0029691.
+vidir_molemax, vidir_molemax
+age: 65.0 != 50.0
+sex: male != female
+
+[0.9474] Lesion IDs do not match for ISIC_0030847 and ISIC_0027849.
+rosendahl, rosendahl
+age: 65.0 != 45.0
+
+[0.9473] Lesion IDs do not match for ISIC_0026717 and ISIC_0026912.
+vidir_modern, vidir_modern
+dx_type: consensus != confocal
+age: 70.0 != 85.0
+sex: male != female
+
+[0.9473] Lesion IDs do not match for ISIC_0025802 and ISIC_0029322.
+vidir_molemax, vidir_molemax
+age: 45.0 != 50.0
+
+[0.9473] Lesion IDs do not match for ISIC_0028783 and ISIC_0027028.
+vidir_molemax, vidir_molemax
+
+[0.9473] Lesion IDs do not match for ISIC_0030517 and ISIC_0025788.
+vidir_molemax, vidir_molemax
+age: 55.0 != 65.0
+
+[0.9472] Lesion IDs do not match for ISIC_0026937 and ISIC_0026757.
+vidir_molemax, vidir_molemax
+age: 45.0 != 35.0
+
+[0.9472] Lesion IDs do not match for ISIC_0033497 and ISIC_0033739.
+vidir_modern, vidir_modern
+
+[0.9472] Lesion IDs do not match for ISIC_0028395 and ISIC_0032153.
+vidir_molemax, vidir_molemax
+localization: trunk != back
+
+[0.9471] Lesion IDs do not match for ISIC_0026116 and ISIC_0028911.
+vidir_molemax, vidir_molemax
+age: 30.0 != 40.0
+sex: male != female
+localization: upper extremity != trunk
+
+[0.9471] Lesion IDs do not match for ISIC_0033589 and ISIC_0033363.
+vidir_modern, vidir_modern
+dx_type: consensus != histo
+sex: female != male
+localization: chest != upper extremity
+
+[0.9471] Lesion IDs do not match for ISIC_0029921 and ISIC_0032105.
+vidir_molemax, vidir_molemax
+age: 30.0 != 60.0
+localization: abdomen != back
+
+[0.9471] Lesion IDs do not match for ISIC_0024740 and ISIC_0027379.
+rosendahl, rosendahl
+dx: bkl != nv
+age: 55.0 != 70.0
+localization: back != chest
+
+[0.9470] Lesion IDs do not match for ISIC_0031105 and ISIC_0028438.
+vidir_modern, vidir_modern
+
+[0.9470] Lesion IDs do not match for ISIC_0030823 and ISIC_0031214.
+vidir_molemax, vidir_molemax
+age: 40.0 != 70.0
+localization: trunk != back
+
+[0.9470] Lesion IDs do not match for ISIC_0030601 and ISIC_0025561.
+vidir_molemax, vidir_molemax
+age: 45.0 != 40.0
+
+[0.9469] Lesion IDs do not match for ISIC_0027507 and ISIC_0024313.
+rosendahl, rosendahl
+age: 60.0 != 50.0
+sex: male != female
+
+[0.9469] Lesion IDs do not match for ISIC_0027659 and ISIC_0033881.
+vidir_modern, vidir_modern
+age: 70.0 != 40.0
+sex: male != female
+localization: back != face
+
+[0.9469] Lesion IDs do not match for ISIC_0030425 and ISIC_0030847.
+rosendahl, rosendahl
+age: 55.0 != 65.0
+sex: female != male
+
+[0.9469] Lesion IDs do not match for ISIC_0026617 and ISIC_0028788.
+vidir_molemax, vidir_molemax
+age: 40.0 != 65.0
+sex: female != male
+
+[0.9468] Lesion IDs do not match for ISIC_0030560 and ISIC_0029367.
+vidir_molemax, vidir_molemax
+age: 80.0 != 45.0
+sex: male != female
+localization: back != trunk
+
+[0.9467] Lesion IDs do not match for ISIC_0030854 and ISIC_0031128.
+vidir_molemax, vidir_molemax
+age: 30.0 != 60.0
+
+[0.9467] Lesion IDs do not match for ISIC_0028308 and ISIC_0032174.
+rosendahl, rosendahl
+dx: bkl != bcc
+age: 50.0 != 75.0
+sex: female != male
+localization: chest != back
+
+[0.9467] Lesion IDs do not match for ISIC_0034169 and ISIC_0033712.
+vidir_modern, vidir_modern
+dx: df != nv
+age: 50.0 != 60.0
+sex: male != female
+
+[0.9467] Lesion IDs do not match for ISIC_0029353 and ISIC_0028364.
+rosendahl, rosendahl
+dx: mel != nv
+age: 60.0 != 50.0
+sex: male != female
+
+[0.9466] Lesion IDs do not match for ISIC_0025107 and ISIC_0028040.
+vidir_molemax, vidir_molemax
+age: 55.0 != 35.0
+sex: female != male
+localization: lower extremity != back
+
+[0.9466] Lesion IDs do not match for ISIC_0027811 and ISIC_0024409.
+vidir_modern, vidir_modern
+age: 50.0 != 55.0
+sex: male != female
+
+[0.9466] Lesion IDs do not match for ISIC_0025796 and ISIC_0026559.
+vidir_molemax, rosendahl
+dx_type: follow_up != histo
+age: 75.0 != 60.0
+sex: male != female
+localization: abdomen != lower extremity
+dataset: vidir_molemax != rosendahl
+
+[0.9466] Lesion IDs do not match for ISIC_0029764 and ISIC_0026138.
+rosendahl, rosendahl
+dx: bkl != akiec
+age: 65.0 != 85.0
+sex: male != female
+
+[0.9466] Lesion IDs do not match for ISIC_0031005 and ISIC_0029583.
+rosendahl, rosendahl
+dx: mel != nv
+age: 65.0 != 75.0
+
+[0.9466] Lesion IDs do not match for ISIC_0032314 and ISIC_0032174.
+rosendahl, rosendahl
+age: 85.0 != 75.0
+
+[0.9465] Lesion IDs do not match for ISIC_0030888 and ISIC_0027324.
+vidir_molemax, vidir_molemax
+localization: abdomen != lower extremity
+
+[0.9465] Lesion IDs do not match for ISIC_0028385 and ISIC_0031145.
+vidir_modern, vidir_modern
+localization: foot != lower extremity
+
+[0.9465] Lesion IDs do not match for ISIC_0025566 and ISIC_0030850.
+vidir_molemax, vidir_molemax
+age: 35.0 != 45.0
+sex: female != male
+localization: back != abdomen
+
+[0.9465] Lesion IDs do not match for ISIC_0034224 and ISIC_0032742.
+vidir_modern, vidir_modern
+localization: back != upper extremity
+
+[0.9464] Lesion IDs do not match for ISIC_0028130 and ISIC_0029696.
+rosendahl, rosendahl
+age: 50.0 != 65.0
+localization: lower extremity != upper extremity
+
+[0.9464] Lesion IDs do not match for ISIC_0032906 and ISIC_0033363.
+vidir_modern, vidir_modern
+dx: bcc != nv
+age: 65.0 != 50.0
+localization: face != upper extremity
+
+[0.9463] Lesion IDs do not match for ISIC_0027409 and ISIC_0030647.
+vidir_molemax, vidir_molemax
+age: 60.0 != 65.0
+
+[0.9463] Lesion IDs do not match for ISIC_0030919 and ISIC_0031311.
+rosendahl, rosendahl
+age: 60.0 != 50.0
+localization: lower extremity != back
+
+[0.9463] Lesion IDs do not match for ISIC_0029197 and ISIC_0034293.
+rosendahl, vidir_modern
+sex: male != female
+localization: back != lower extremity
+dataset: rosendahl != vidir_modern
+
+[0.9463] Lesion IDs do not match for ISIC_0033501 and ISIC_0033120.
+vidir_modern, vidir_modern
+dx: nv != mel
+age: 25.0 != 45.0
+sex: female != male
+localization: back != upper extremity
+
+[0.9463] Lesion IDs do not match for ISIC_0029583 and ISIC_0032072.
+rosendahl, rosendahl
+dx: nv != mel
+age: 75.0 != 65.0
+sex: male != female
+
+[0.9463] Lesion IDs do not match for ISIC_0026839 and ISIC_0033589.
+vidir_modern, vidir_modern
+dx_type: histo != consensus
+sex: male != female
+localization: back != chest
+
+[0.9463] Lesion IDs do not match for ISIC_0026691 and ISIC_0026485.
+vidir_molemax, vidir_molemax
+age: 40.0 != 50.0
+
+[0.9462] Lesion IDs do not match for ISIC_0033166 and ISIC_0033275.
+vidir_modern, vidir_modern
+age: 40.0 != 60.0
+localization: lower extremity != chest
+
+[0.9462] Lesion IDs do not match for ISIC_0029198 and ISIC_0029134.
+vidir_molemax, vidir_molemax
+age: 65.0 != 30.0
+sex: female != male
+
+[0.9461] Lesion IDs do not match for ISIC_0034072 and ISIC_0024461.
+vidir_modern, rosendahl
+dx: nv != bcc
+dx_type: consensus != histo
+age: 60.0 != 80.0
+sex: male != female
+localization: unknown != foot
+dataset: vidir_modern != rosendahl
+
+[0.9461] Lesion IDs do not match for ISIC_0032378 and ISIC_0032096.
+vidir_modern, vidir_modern
+
+[0.9461] Lesion IDs do not match for ISIC_0031505 and ISIC_0028203.
+vidir_molemax, vidir_molemax
+age: 45.0 != 60.0
+localization: trunk != abdomen
+
+[0.9461] Lesion IDs do not match for ISIC_0029296 and ISIC_0031299.
+vidir_modern, vidir_modern
+dx_type: histo != consensus
+age: 40.0 != 55.0
+localization: back != chest
+
+[0.9460] Lesion IDs do not match for ISIC_0031086 and ISIC_0031548.
+vidir_molemax, vidir_molemax
+age: 50.0 != 60.0
+sex: female != male
+localization: upper extremity != back
+
+[0.9460] Lesion IDs do not match for ISIC_0030526 and ISIC_0025957.
+rosendahl, rosendahl
+dx: bcc != akiec
+age: 80.0 != 60.0
+localization: foot != lower extremity
+
+[0.9460] Lesion IDs do not match for ISIC_0030929 and ISIC_0031289.
+rosendahl, rosendahl
+dx: mel != bkl
+sex: female != male
+localization: upper extremity != back
+
+[0.9459] Lesion IDs do not match for ISIC_0028285 and ISIC_0030826.
+rosendahl, rosendahl
+dx: mel != akiec
+age: 80.0 != 70.0
+
+[0.9459] Lesion IDs do not match for ISIC_0031128 and ISIC_0031441.
+vidir_molemax, vidir_molemax
+age: 60.0 != 55.0
+
+[0.9458] Lesion IDs do not match for ISIC_0030809 and ISIC_0026301.
+rosendahl, rosendahl
+dx: nv != bkl
+localization: back != lower extremity
+
+[0.9458] Lesion IDs do not match for ISIC_0031912 and ISIC_0030886.
+vidir_molemax, vidir_molemax
+age: 65.0 != 45.0
+sex: male != female
+localization: back != trunk
+
+[0.9458] Lesion IDs do not match for ISIC_0024419 and ISIC_0028277.
+vidir_molemax, vidir_molemax
+age: 35.0 != 55.0
+localization: lower extremity != back
+
+[0.9458] Lesion IDs do not match for ISIC_0026839 and ISIC_0032707.
+vidir_modern, vidir_modern
+age: 50.0 != 55.0
+
+[0.9458] Lesion IDs do not match for ISIC_0033974 and ISIC_0029839.
+vidir_modern, rosendahl
+dx: nv != mel
+age: 40.0 != 65.0
+sex: female != male
+dataset: vidir_modern != rosendahl
+
+[0.9458] Lesion IDs do not match for ISIC_0034288 and ISIC_0028408.
+vidir_modern, rosendahl
+age: 70.0 != 55.0
+localization: trunk != back
+dataset: vidir_modern != rosendahl
+
+[0.9458] Lesion IDs do not match for ISIC_0030646 and ISIC_0031661.
+vidir_molemax, vidir_molemax
+age: 45.0 != 55.0
+localization: lower extremity != abdomen
+
+[0.9458] Lesion IDs do not match for ISIC_0030517 and ISIC_0026235.
+vidir_molemax, vidir_molemax
+sex: male != female
+localization: back != trunk
+
+[0.9457] Lesion IDs do not match for ISIC_0030985 and ISIC_0026873.
+vidir_molemax, vidir_molemax
+age: 40.0 != 55.0
+sex: male != female
+localization: back != trunk
+
+[0.9457] Lesion IDs do not match for ISIC_0027954 and ISIC_0027247.
+vidir_molemax, vidir_molemax
+dx: bkl != nv
+dx_type: consensus != follow_up
+age: 5.0 != 45.0
+sex: male != female
+localization: abdomen != back
+
+[0.9457] Lesion IDs do not match for ISIC_0028316 and ISIC_0028577.
+rosendahl, rosendahl
+age: 60.0 != 65.0
+
+[0.9457] Lesion IDs do not match for ISIC_0030403 and ISIC_0028877.
+rosendahl, rosendahl
+age: 65.0 != 70.0
+
+[0.9457] Lesion IDs do not match for ISIC_0028054 and ISIC_0031548.
+vidir_molemax, vidir_molemax
+age: 50.0 != 60.0
+localization: trunk != back
+
+[0.9457] Lesion IDs do not match for ISIC_0031895 and ISIC_0028277.
+vidir_molemax, vidir_molemax
+age: 50.0 != 55.0
+localization: upper extremity != back
+
+[0.9457] Lesion IDs do not match for ISIC_0026345 and ISIC_0027809.
+vidir_molemax, vidir_molemax
+age: 35.0 != 45.0
+
+[0.9457] Lesion IDs do not match for ISIC_0032647 and ISIC_0033974.
+vidir_modern, vidir_modern
+dx_type: consensus != histo
+sex: male != female
+localization: unknown != back
+
+[0.9456] Lesion IDs do not match for ISIC_0033327 and ISIC_0033765.
+vidir_modern, vidir_modern
+dx_type: histo != consensus
+age: 60.0 != 45.0
+localization: upper extremity != unknown
+
+[0.9456] Lesion IDs do not match for ISIC_0026729 and ISIC_0030986.
+rosendahl, rosendahl
+age: 50.0 != 55.0
+sex: male != female
+
+[0.9456] Lesion IDs do not match for ISIC_0025843 and ISIC_0025084.
+vidir_molemax, vidir_molemax
+sex: female != male
+localization: trunk != back
+
+[0.9456] Lesion IDs do not match for ISIC_0026557 and ISIC_0029198.
+vidir_molemax, vidir_molemax
+age: 50.0 != 65.0
+localization: back != trunk
+
+[0.9455] Lesion IDs do not match for ISIC_0031816 and ISIC_0030441.
+vidir_molemax, vidir_molemax
+age: 35.0 != 50.0
+sex: female != male
+localization: trunk != back
+
+[0.9455] Lesion IDs do not match for ISIC_0026976 and ISIC_0025605.
+rosendahl, rosendahl
+dx: mel != akiec
+sex: male != female
+localization: back != lower extremity
+
+[0.9455] Lesion IDs do not match for ISIC_0033881 and ISIC_0034126.
+vidir_modern, vidir_modern
+dx: mel != bkl
+age: 40.0 != 80.0
+sex: female != male
+localization: face != back
+
+[0.9455] Lesion IDs do not match for ISIC_0032126 and ISIC_0031339.
+rosendahl, rosendahl
+dx: nv != mel
+age: 50.0 != 60.0
+
+[0.9455] Lesion IDs do not match for ISIC_0032560 and ISIC_0033793.
+vidir_modern, vidir_modern
+age: 40.0 != 70.0
+localization: chest != back
+
+[0.9455] Lesion IDs do not match for ISIC_0026580 and ISIC_0029560.
+rosendahl, rosendahl
+age: 60.0 != 45.0
+
+[0.9455] Lesion IDs do not match for ISIC_0029887 and ISIC_0028383.
+vidir_molemax, vidir_molemax
+age: 45.0 != 50.0
+localization: trunk != back
+
+[0.9454] Lesion IDs do not match for ISIC_0030311 and ISIC_0029678.
+rosendahl, rosendahl
+dx: nv != bkl
+age: 45.0 != 85.0
+sex: female != male
+
+[0.9454] Lesion IDs do not match for ISIC_0025926 and ISIC_0025247.
+rosendahl, rosendahl
+dx: nv != akiec
+age: 60.0 != 70.0
+sex: female != male
+localization: back != lower extremity
+
+[0.9454] Lesion IDs do not match for ISIC_0026646 and ISIC_0024717.
+vidir_molemax, vidir_molemax
+age: 50.0 != 35.0
+sex: male != female
+localization: trunk != back
+
+[0.9454] Lesion IDs do not match for ISIC_0030898 and ISIC_0034048.
+vidir_modern, vidir_modern
+age: 50.0 != 45.0
+sex: male != female
+localization: back != upper extremity
+
+[0.9454] Lesion IDs do not match for ISIC_0033872 and ISIC_0034132.
+vidir_modern, vidir_modern
+age: 75.0 != 70.0
+sex: male != female
+localization: back != lower extremity
+
+[0.9454] Lesion IDs do not match for ISIC_0030346 and ISIC_0030803.
+rosendahl, rosendahl
+dx: bkl != akiec
+age: 60.0 != 65.0
+sex: male != female
+
+[0.9454] Lesion IDs do not match for ISIC_0025984 and ISIC_0025702.
+vidir_modern, vidir_modern
+dx: bkl != nv
+age: 85.0 != 80.0
+localization: chest != lower extremity
+
+[0.9453] Lesion IDs do not match for ISIC_0033356 and ISIC_0033237.
+vidir_modern, vidir_modern
+age: 30.0 != 70.0
+sex: female != male
+
+[0.9453] Lesion IDs do not match for ISIC_0033045 and ISIC_0032588.
+vidir_modern, vidir_modern
+
+[0.9453] Lesion IDs do not match for ISIC_0025750 and ISIC_0025995.
+vidir_molemax, vidir_molemax
+age: 45.0 != 35.0
+sex: male != female
+localization: abdomen != trunk
+
+[0.9453] Lesion IDs do not match for ISIC_0032171 and ISIC_0030716.
+vidir_molemax, vidir_molemax
+age: 50.0 != 55.0
+localization: abdomen != lower extremity
+
+[0.9453] Lesion IDs do not match for ISIC_0025505 and ISIC_0027183.
+rosendahl, rosendahl
+age: 45.0 != 25.0
+sex: female != male
+localization: back != upper extremity
+
+[0.9453] Lesion IDs do not match for ISIC_0026080 and ISIC_0024409.
+vidir_modern, vidir_modern
+dx: nv != bkl
+dx_type: histo != confocal
+age: 45.0 != 55.0
+sex: male != female
+localization: back != face
+
+[0.9452] Lesion IDs do not match for ISIC_0032800 and ISIC_0032647.
+vidir_modern, vidir_modern
+
+[0.9452] Lesion IDs do not match for ISIC_0030603 and ISIC_0029420.
+rosendahl, rosendahl
+dx: nv != bkl
+age: 75.0 != 35.0
+sex: female != male
+localization: upper extremity != back
+
+[0.9452] Lesion IDs do not match for ISIC_0031663 and ISIC_0026519.
+vidir_modern, vidir_modern
+sex: female != male
+localization: abdomen != lower extremity
+
+[0.9452] Lesion IDs do not match for ISIC_0025513 and ISIC_0031515.
+vidir_modern, vidir_modern
+dx: bcc != nv
+age: 40.0 != 55.0
+sex: male != female
+localization: back != upper extremity
+
+[0.9452] Lesion IDs do not match for ISIC_0025572 and ISIC_0024461.
+vidir_molemax, rosendahl
+dx: nv != bcc
+dx_type: follow_up != histo
+age: 50.0 != 80.0
+localization: trunk != foot
+dataset: vidir_molemax != rosendahl
+
+[0.9452] Lesion IDs do not match for ISIC_0033577 and ISIC_0033105.
+vidir_modern, vidir_modern
+age: 40.0 != 45.0
+
+[0.9452] Lesion IDs do not match for ISIC_0029498 and ISIC_0028380.
+vidir_modern, vidir_modern
+age: 60.0 != 15.0
+localization: chest != back
+
+[0.9452] Lesion IDs do not match for ISIC_0030514 and ISIC_0031578.
+rosendahl, rosendahl
+dx: bcc != akiec
+age: 85.0 != 65.0
+localization: back != upper extremity
+
+[0.9452] Lesion IDs do not match for ISIC_0027718 and ISIC_0025702.
+vidir_modern, vidir_modern
+age: 35.0 != 80.0
+sex: male != female
+localization: back != lower extremity
+
+[0.9452] Lesion IDs do not match for ISIC_0028867 and ISIC_0028379.
+vidir_molemax, vidir_molemax
+age: 45.0 != 35.0
+localization: hand != back
+
+[0.9451] Lesion IDs do not match for ISIC_0024336 and ISIC_0029638.
+rosendahl, rosendahl
+dx: bkl != akiec
+age: 50.0 != 75.0
+
+[0.9451] Lesion IDs do not match for ISIC_0027844 and ISIC_0024621.
+vidir_molemax, vidir_molemax
+age: 50.0 != 70.0
+localization: back != abdomen
+
+[0.9451] Lesion IDs do not match for ISIC_0026910 and ISIC_0026320.
+vidir_molemax, vidir_molemax
+age: 35.0 != 45.0
+localization: trunk != abdomen
+
+[0.9451] Lesion IDs do not match for ISIC_0028927 and ISIC_0032259.
+vidir_molemax, vidir_molemax
+age: 70.0 != 50.0
+localization: back != trunk
+
+[0.9451] Lesion IDs do not match for ISIC_0026961 and ISIC_0027120.
+rosendahl, rosendahl
+dx: bkl != bcc
+age: 65.0 != 80.0
+sex: male != female
+localization: upper extremity != lower extremity
+
+[0.9451] Lesion IDs do not match for ISIC_0028850 and ISIC_0028911.
+vidir_molemax, vidir_molemax
+localization: back != trunk
+
+[0.9451] Lesion IDs do not match for ISIC_0025557 and ISIC_0028294.
+vidir_modern, vidir_modern
+dx: bcc != bkl
+dx_type: histo != confocal
+age: 80.0 != 75.0
+localization: chest != face
+
+[0.9451] Lesion IDs do not match for ISIC_0031716 and ISIC_0024517.
+rosendahl, rosendahl
+dx: bkl != akiec
+age: 70.0 != 65.0
+sex: female != male
+localization: lower extremity != back
+
+[0.9451] Lesion IDs do not match for ISIC_0033351 and ISIC_0028008.
+vidir_modern, vidir_modern
+dx_type: histo != consensus
+age: 70.0 != 55.0
+localization: back != upper extremity
+
+[0.9451] Lesion IDs do not match for ISIC_0029055 and ISIC_0029045.
+vidir_modern, vidir_modern
+dx_type: consensus != histo
+localization: lower extremity != upper extremity
+
+[0.9451] Lesion IDs do not match for ISIC_0028203 and ISIC_0028605.
+vidir_molemax, vidir_molemax
+age: 60.0 != 30.0
+localization: abdomen != trunk
+
+[0.9450] Lesion IDs do not match for ISIC_0034165 and ISIC_0034189.
+vidir_modern, vidir_modern
+dx_type: consensus != histo
+age: 55.0 != 80.0
+sex: female != male
+localization: lower extremity != face
+
+[0.9450] Lesion IDs do not match for ISIC_0028927 and ISIC_0029886.
+vidir_molemax, vidir_molemax
+age: 70.0 != 55.0
+sex: male != female
+localization: back != lower extremity
+
+[0.9450] Lesion IDs do not match for ISIC_0026392 and ISIC_0026882.
+vidir_molemax, vidir_molemax
+
+[0.9450] Lesion IDs do not match for ISIC_0027155 and ISIC_0029339.
+rosendahl, rosendahl
+dx: mel != nv
+age: 65.0 != 55.0
+localization: neck != back
+
+[0.9450] Lesion IDs do not match for ISIC_0028324 and ISIC_0029804.
+vidir_molemax, vidir_molemax
+age: 45.0 != 35.0
+sex: male != female
+localization: trunk != back
+
+[0.9449] Lesion IDs do not match for ISIC_0031580 and ISIC_0029978.
+rosendahl, rosendahl
+dx: bkl != nv
+sex: male != female
+localization: upper extremity != chest
+
+[0.9449] Lesion IDs do not match for ISIC_0029853 and ISIC_0027980.
+vidir_molemax, vidir_molemax
+age: 45.0 != 35.0
+
+[0.9449] Lesion IDs do not match for ISIC_0030802 and ISIC_0029315.
+rosendahl, rosendahl
+dx: nv != akiec
+age: 80.0 != 75.0
+sex: female != male
+
+[0.9449] Lesion IDs do not match for ISIC_0029898 and ISIC_0031746.
+rosendahl, rosendahl
+dx: nv != mel
+age: 80.0 != 85.0
+localization: abdomen != chest
+
+[0.9449] Lesion IDs do not match for ISIC_0034081 and ISIC_0034082.
+vidir_modern, vidir_modern
+
+[0.9449] Lesion IDs do not match for ISIC_0027018 and ISIC_0032444.
+rosendahl, rosendahl
+dx: bkl != nv
+age: 45.0 != 65.0
+sex: female != male
+
+[0.9449] Lesion IDs do not match for ISIC_0032696 and ISIC_0029830.
+vidir_modern, rosendahl
+dx: bcc != akiec
+age: 70.0 != 60.0
+localization: back != face
+dataset: vidir_modern != rosendahl
+
+[0.9448] Lesion IDs do not match for ISIC_0024655 and ISIC_0030020.
+vidir_molemax, vidir_molemax
+localization: back != trunk
+
+[0.9448] Lesion IDs do not match for ISIC_0033573 and ISIC_0033959.
+vidir_modern, vidir_modern
+dx: mel != nv
+age: 50.0 != 75.0
+localization: back != upper extremity
+
+[0.9448] Lesion IDs do not match for ISIC_0025513 and ISIC_0025824.
+vidir_modern, vidir_modern
+age: 40.0 != 75.0
+localization: back != chest
+
+[0.9448] Lesion IDs do not match for ISIC_0028092 and ISIC_0026301.
+rosendahl, rosendahl
+dx: nv != bkl
+age: 60.0 != 65.0
+localization: back != lower extremity
+
+[0.9448] Lesion IDs do not match for ISIC_0029426 and ISIC_0026114.
+vidir_molemax, vidir_molemax
+localization: trunk != back
+
+[0.9447] Lesion IDs do not match for ISIC_0031966 and ISIC_0025007.
+vidir_molemax, vidir_molemax
+age: 45.0 != 50.0
+
+[0.9447] Lesion IDs do not match for ISIC_0026828 and ISIC_0032239.
+vidir_molemax, vidir_molemax
+age: 55.0 != 50.0
+sex: male != female
+
+[0.9447] Lesion IDs do not match for ISIC_0025971 and ISIC_0027546.
+rosendahl, rosendahl
+age: 45.0 != 65.0
+
+[0.9447] Lesion IDs do not match for ISIC_0025139 and ISIC_0031816.
+vidir_molemax, vidir_molemax
+
+[0.9447] Lesion IDs do not match for ISIC_0029315 and ISIC_0028511.
+rosendahl, rosendahl
+dx: akiec != bkl
+localization: lower extremity != upper extremity
+
+[0.9447] Lesion IDs do not match for ISIC_0025947 and ISIC_0029023.
+vidir_molemax, vidir_molemax
+
+[0.9447] Lesion IDs do not match for ISIC_0032661 and ISIC_0028698.
+vidir_modern, rosendahl
+age: 70.0 != 60.0
+sex: male != female
+localization: trunk != lower extremity
+dataset: vidir_modern != rosendahl
+
+[0.9447] Lesion IDs do not match for ISIC_0032617 and ISIC_0033050.
+vidir_modern, vidir_modern
+sex: male != female
+
+[0.9447] Lesion IDs do not match for ISIC_0028324 and ISIC_0026707.
+vidir_molemax, vidir_molemax
+age: 45.0 != 40.0
+sex: male != female
+localization: trunk != abdomen
+
+[0.9447] Lesion IDs do not match for ISIC_0034204 and ISIC_0034136.
+vidir_modern, vidir_modern
+age: 45.0 != 60.0
+sex: male != female
+
+[0.9446] Lesion IDs do not match for ISIC_0030863 and ISIC_0028298.
+vidir_molemax, vidir_molemax
+age: 55.0 != 45.0
+sex: female != male
+localization: trunk != upper extremity
+
+[0.9446] Lesion IDs do not match for ISIC_0028873 and ISIC_0028548.
+rosendahl, rosendahl
+dx: nv != mel
+age: 70.0 != 60.0
+localization: upper extremity != back
+
+[0.9446] Lesion IDs do not match for ISIC_0027809 and ISIC_0026932.
+vidir_molemax, vidir_molemax
+age: 45.0 != 50.0
+sex: female != male
+localization: trunk != back
+
+[0.9446] Lesion IDs do not match for ISIC_0032572 and ISIC_0033890.
+vidir_modern, vidir_modern
+
+[0.9446] Lesion IDs do not match for ISIC_0028385 and ISIC_0031663.
+vidir_modern, vidir_modern
+age: 45.0 != 40.0
+localization: foot != abdomen
+
+[0.9446] Lesion IDs do not match for ISIC_0032750 and ISIC_0028600.
+vidir_modern, rosendahl
+dx: mel != nv
+age: 50.0 != 65.0
+localization: lower extremity != abdomen
+dataset: vidir_modern != rosendahl
+
+[0.9446] Lesion IDs do not match for ISIC_0033356 and ISIC_0032572.
+vidir_modern, vidir_modern
+dx_type: histo != consensus
+age: 30.0 != 45.0
+localization: chest != unknown
+
+[0.9446] Lesion IDs do not match for ISIC_0024346 and ISIC_0031373.
+vidir_molemax, vidir_molemax
+age: 50.0 != 60.0
+
+[0.9446] Lesion IDs do not match for ISIC_0026174 and ISIC_0032463.
+vidir_modern, vidir_modern
+dx_type: consensus != histo
+age: 65.0 != 75.0
+localization: face != lower extremity
+
+[0.9445] Lesion IDs do not match for ISIC_0033439 and ISIC_0033166.
+vidir_modern, vidir_modern
+dx: nv != mel
+age: 30.0 != 40.0
+localization: back != lower extremity
+
+[0.9445] Lesion IDs do not match for ISIC_0029164 and ISIC_0025675.
+vidir_molemax, vidir_molemax
+age: 65.0 != 50.0
+sex: male != female
+localization: back != upper extremity
+
+[0.9445] Lesion IDs do not match for ISIC_0027561 and ISIC_0031913.
+rosendahl, rosendahl
+dx: mel != nv
+age: 70.0 != 65.0
+sex: female != male
+localization: upper extremity != back
+
+[0.9445] Lesion IDs do not match for ISIC_0025653 and ISIC_0027684.
+vidir_modern, vidir_modern
+dx_type: consensus != histo
+age: 55.0 != 45.0
+localization: chest != back
+
+[0.9445] Lesion IDs do not match for ISIC_0024794 and ISIC_0030435.
+vidir_molemax, vidir_molemax
+age: 55.0 != 50.0
+sex: female != male
+
+[0.9445] Lesion IDs do not match for ISIC_0027639 and ISIC_0027298.
+rosendahl, rosendahl
+age: 55.0 != 70.0
+
+[0.9445] Lesion IDs do not match for ISIC_0024659 and ISIC_0030045.
+vidir_molemax, vidir_molemax
+age: 60.0 != 65.0
+localization: trunk != abdomen
+
+[0.9445] Lesion IDs do not match for ISIC_0029255 and ISIC_0026873.
+vidir_molemax, vidir_molemax
+
+[0.9444] Lesion IDs do not match for ISIC_0029116 and ISIC_0030380.
+vidir_molemax, vidir_molemax
+age: 50.0 != 80.0
+sex: female != male
+localization: trunk != upper extremity
+
+[0.9444] Lesion IDs do not match for ISIC_0031988 and ISIC_0028531.
+vidir_modern, vidir_modern
+dx_type: histo != consensus
+age: 50.0 != 30.0
+sex: male != female
+localization: back != abdomen
+
+[0.9444] Lesion IDs do not match for ISIC_0025577 and ISIC_0030813.
+rosendahl, rosendahl
+dx: akiec != bcc
+age: 75.0 != 65.0
+sex: female != male
+localization: lower extremity != back
+
+[0.9444] Lesion IDs do not match for ISIC_0026733 and ISIC_0025995.
+vidir_molemax, vidir_molemax
+age: 50.0 != 35.0
+
+[0.9444] Lesion IDs do not match for ISIC_0029549 and ISIC_0029978.
+rosendahl, rosendahl
+dx: akiec != nv
+age: 70.0 != 40.0
+sex: male != female
+localization: back != chest
+
+[0.9444] Lesion IDs do not match for ISIC_0032414 and ISIC_0026395.
+vidir_modern, vidir_modern
+age: 75.0 != 50.0
+localization: lower extremity != back
+
+[0.9444] Lesion IDs do not match for ISIC_0030352 and ISIC_0024743.
+rosendahl, rosendahl
+age: 70.0 != 65.0
+localization: back != lower extremity
+
+[0.9443] Lesion IDs do not match for ISIC_0030911 and ISIC_0027816.
+vidir_molemax, vidir_molemax
+age: 40.0 != 45.0
+localization: trunk != lower extremity
+
+[0.9443] Lesion IDs do not match for ISIC_0029532 and ISIC_0030556.
+vidir_molemax, vidir_molemax
+age: 60.0 != 55.0
+
+[0.9443] Lesion IDs do not match for ISIC_0029832 and ISIC_0030886.
+vidir_molemax, vidir_molemax
+age: 35.0 != 45.0
+sex: male != female
+localization: back != trunk
+
+[0.9443] Lesion IDs do not match for ISIC_0031114 and ISIC_0027943.
+vidir_molemax, vidir_molemax
+age: 75.0 != 55.0
+
+[0.9443] Lesion IDs do not match for ISIC_0026234 and ISIC_0031355.
+vidir_molemax, vidir_molemax
+age: 50.0 != 55.0
+
+[0.9443] Lesion IDs do not match for ISIC_0029197 and ISIC_0028408.
+rosendahl, rosendahl
+
+[0.9443] Lesion IDs do not match for ISIC_0024713 and ISIC_0027499.
+vidir_molemax, vidir_molemax
+age: 50.0 != 40.0
+
+[0.9443] Lesion IDs do not match for ISIC_0030302 and ISIC_0028284.
+vidir_molemax, vidir_molemax
+age: 45.0 != 55.0
+
+[0.9442] Lesion IDs do not match for ISIC_0025111 and ISIC_0025995.
+vidir_molemax, vidir_molemax
+age: 45.0 != 35.0
+sex: male != female
+
+[0.9442] Lesion IDs do not match for ISIC_0031890 and ISIC_0024490.
+vidir_modern, vidir_modern
+dx: mel != bkl
+dx_type: histo != consensus
+age: 85.0 != 75.0
+
+[0.9442] Lesion IDs do not match for ISIC_0025268 and ISIC_0027546.
+rosendahl, rosendahl
+dx: mel != bcc
+localization: upper extremity != back
+
+[0.9442] Lesion IDs do not match for ISIC_0025480 and ISIC_0026648.
+vidir_molemax, vidir_molemax
+
+[0.9442] Lesion IDs do not match for ISIC_0029722 and ISIC_0024660.
+vidir_molemax, vidir_molemax
+age: 35.0 != 55.0
+localization: back != lower extremity
+
+[0.9442] Lesion IDs do not match for ISIC_0029244 and ISIC_0031393.
+vidir_molemax, vidir_molemax
+age: 45.0 != 50.0
+
+[0.9441] Lesion IDs do not match for ISIC_0026827 and ISIC_0026018.
+rosendahl, rosendahl
+age: 60.0 != 65.0
+sex: female != male
+
+[0.9441] Lesion IDs do not match for ISIC_0028940 and ISIC_0027363.
+vidir_molemax, vidir_molemax
+age: 55.0 != 30.0
+localization: trunk != upper extremity
+
+[0.9441] Lesion IDs do not match for ISIC_0028461 and ISIC_0027613.
+vidir_modern, vidir_modern
+dx: nv != df
+age: 60.0 != 75.0
+
+[0.9441] Lesion IDs do not match for ISIC_0032617 and ISIC_0033589.
+vidir_modern, vidir_modern
+dx: mel != nv
+dx_type: histo != consensus
+age: 75.0 != 50.0
+sex: male != female
+localization: back != chest
+
+[0.9441] Lesion IDs do not match for ISIC_0030790 and ISIC_0024833.
+rosendahl, rosendahl
+dx: nv != bcc
+sex: female != male
+
+[0.9441] Lesion IDs do not match for ISIC_0028094 and ISIC_0025466.
+vidir_modern, vidir_modern
+
+[0.9440] Lesion IDs do not match for ISIC_0027793 and ISIC_0026510.
+vidir_molemax, vidir_molemax
+dx: mel != nv
+dx_type: histo != follow_up
+age: 35.0 != 70.0
+localization: neck != trunk
+
+[0.9440] Lesion IDs do not match for ISIC_0026491 and ISIC_0028730.
+rosendahl, rosendahl
+dx: nv != akiec
+age: 50.0 != 65.0
+sex: female != male
+localization: upper extremity != lower extremity
+
+[0.9440] Lesion IDs do not match for ISIC_0025832 and ISIC_0028511.
+rosendahl, rosendahl
+dx: mel != bkl
+age: 65.0 != 75.0
+localization: back != upper extremity
+
+[0.9440] Lesion IDs do not match for ISIC_0032571 and ISIC_0033888.
+vidir_modern, vidir_modern
+age: 40.0 != 50.0
+localization: unknown != chest
+
+[0.9439] Lesion IDs do not match for ISIC_0029459 and ISIC_0028092.
+rosendahl, rosendahl
+age: 50.0 != 60.0
+sex: female != male
+localization: upper extremity != back
+
+[0.9439] Lesion IDs do not match for ISIC_0031988 and ISIC_0031791.
+vidir_modern, vidir_modern
+dx_type: histo != consensus
+sex: male != female
+
+[0.9439] Lesion IDs do not match for ISIC_0025308 and ISIC_0026241.
+vidir_molemax, vidir_molemax
+age: 40.0 != 50.0
+sex: male != female
+localization: trunk != back
+
+[0.9438] Lesion IDs do not match for ISIC_0024621 and ISIC_0027511.
+vidir_molemax, vidir_molemax
+age: 70.0 != 50.0
+localization: abdomen != lower extremity
+
+[0.9438] Lesion IDs do not match for ISIC_0025132 and ISIC_0029638.
+rosendahl, rosendahl
+dx: mel != akiec
+age: 80.0 != 75.0
+sex: male != female
+localization: back != lower extremity
+
+[0.9438] Lesion IDs do not match for ISIC_0031293 and ISIC_0028195.
+vidir_modern, vidir_modern
+age: 30.0 != 35.0
+sex: male != female
+localization: back != upper extremity
+
+[0.9438] Lesion IDs do not match for ISIC_0031025 and ISIC_0028995.
+rosendahl, rosendahl
+dx: mel != bkl
+localization: back != lower extremity
+
+[0.9438] Lesion IDs do not match for ISIC_0030279 and ISIC_0032195.
+rosendahl, rosendahl
+age: 60.0 != 50.0
+localization: back != upper extremity
+
+[0.9438] Lesion IDs do not match for ISIC_0028364 and ISIC_0029978.
+rosendahl, rosendahl
+age: 50.0 != 40.0
+localization: back != chest
+
+[0.9437] Lesion IDs do not match for ISIC_0032314 and ISIC_0028308.
+rosendahl, rosendahl
+dx: bcc != bkl
+age: 85.0 != 50.0
+sex: male != female
+localization: back != chest
+
+[0.9437] Lesion IDs do not match for ISIC_0027478 and ISIC_0024911.
+vidir_modern, vidir_modern
+dx: bcc != mel
+age: 40.0 != 45.0
+sex: male != female
+
+[0.9437] Lesion IDs do not match for ISIC_0029355 and ISIC_0025702.
+vidir_modern, vidir_modern
+dx_type: consensus != histo
+age: 50.0 != 80.0
+
+[0.9437] Lesion IDs do not match for ISIC_0028274 and ISIC_0025995.
+vidir_molemax, vidir_molemax
+age: 50.0 != 35.0
+sex: male != female
+localization: back != trunk
+
+[0.9437] Lesion IDs do not match for ISIC_0033478 and ISIC_0026839.
+vidir_modern, vidir_modern
+age: 55.0 != 50.0
+
+[0.9437] Lesion IDs do not match for ISIC_0032224 and ISIC_0025995.
+vidir_molemax, vidir_molemax
+age: 45.0 != 35.0
+
+[0.9437] Lesion IDs do not match for ISIC_0033115 and ISIC_0032572.
+vidir_modern, vidir_modern
+dx_type: histo != consensus
+age: 50.0 != 45.0
+localization: lower extremity != unknown
+
+[0.9437] Lesion IDs do not match for ISIC_0025159 and ISIC_0028564.
+vidir_molemax, vidir_molemax
+age: 35.0 != 45.0
+
+[0.9437] Lesion IDs do not match for ISIC_0027532 and ISIC_0027979.
+vidir_molemax, vidir_molemax
+localization: trunk != upper extremity
+
+[0.9437] Lesion IDs do not match for ISIC_0026738 and ISIC_0029089.
+rosendahl, rosendahl
+age: 85.0 != 70.0
+sex: female != male
+localization: face != back
+
+[0.9437] Lesion IDs do not match for ISIC_0027910 and ISIC_0028377.
+vidir_molemax, vidir_molemax
+localization: trunk != back
+
+[0.9437] Lesion IDs do not match for ISIC_0030209 and ISIC_0030456.
+rosendahl, rosendahl
+age: 45.0 != 50.0
+
+[0.9436] Lesion IDs do not match for ISIC_0032799 and ISIC_0033573.
+vidir_modern, vidir_modern
+dx: bcc != mel
+age: 75.0 != 50.0
+localization: trunk != back
+
+[0.9436] Lesion IDs do not match for ISIC_0031806 and ISIC_0030534.
+rosendahl, rosendahl
+age: 60.0 != 50.0
+
+[0.9436] Lesion IDs do not match for ISIC_0026568 and ISIC_0027059.
+vidir_molemax, vidir_molemax
+age: 55.0 != 60.0
+sex: male != female
+localization: trunk != back
+
+[0.9436] Lesion IDs do not match for ISIC_0030560 and ISIC_0025187.
+vidir_molemax, vidir_molemax
+age: 80.0 != 60.0
+sex: male != female
+
+[0.9436] Lesion IDs do not match for ISIC_0032037 and ISIC_0026246.
+vidir_molemax, vidir_molemax
+age: 60.0 != 45.0
+localization: back != lower extremity
+
+[0.9436] Lesion IDs do not match for ISIC_0026812 and ISIC_0025440.
+vidir_molemax, vidir_molemax
+age: 60.0 != 40.0
+localization: abdomen != lower extremity
+
+[0.9435] Lesion IDs do not match for ISIC_0032835 and ISIC_0032617.
+vidir_modern, vidir_modern
+dx: bkl != mel
+dx_type: consensus != histo
+age: 85.0 != 75.0
+localization: trunk != back
+
+[0.9435] Lesion IDs do not match for ISIC_0031377 and ISIC_0026260.
+rosendahl, rosendahl
+dx: mel != nv
+age: 65.0 != 55.0
+
+[0.9435] Lesion IDs do not match for ISIC_0029078 and ISIC_0030347.
+vidir_molemax, vidir_molemax
+age: 60.0 != 55.0
+sex: male != female
+localization: trunk != upper extremity
+
+[0.9435] Lesion IDs do not match for ISIC_0029952 and ISIC_0030517.
+vidir_molemax, vidir_molemax
+age: 30.0 != 55.0
+localization: trunk != back
+
+[0.9435] Lesion IDs do not match for ISIC_0028316 and ISIC_0025302.
+rosendahl, rosendahl
+dx: bcc != df
+
+[0.9435] Lesion IDs do not match for ISIC_0026937 and ISIC_0030347.
+vidir_molemax, vidir_molemax
+age: 45.0 != 55.0
+localization: lower extremity != upper extremity
+
+[0.9435] Lesion IDs do not match for ISIC_0034204 and ISIC_0033493.
+vidir_modern, vidir_modern
+age: 45.0 != 50.0
+sex: male != female
+localization: back != lower extremity
+
+[0.9435] Lesion IDs do not match for ISIC_0026082 and ISIC_0028850.
+vidir_molemax, vidir_molemax
+age: 55.0 != 40.0
+localization: lower extremity != back
+
+[0.9434] Lesion IDs do not match for ISIC_0033003 and ISIC_0033910.
+vidir_modern, vidir_modern
+dx: nv != bkl
+age: 60.0 != 75.0
+sex: female != male
+
+[0.9434] Lesion IDs do not match for ISIC_0032317 and ISIC_0025124.
+vidir_molemax, vidir_molemax
+age: 50.0 != 45.0
+sex: female != male
+
+[0.9434] Lesion IDs do not match for ISIC_0032982 and ISIC_0032572.
+vidir_modern, vidir_modern
+dx: mel != nv
+dx_type: histo != consensus
+age: 20.0 != 45.0
+sex: male != female
+localization: back != unknown
+
+[0.9434] Lesion IDs do not match for ISIC_0034020 and ISIC_0028195.
+vidir_modern, vidir_modern
+localization: abdomen != upper extremity
+
+[0.9434] Lesion IDs do not match for ISIC_0032913 and ISIC_0033038.
+vidir_modern, vidir_modern
+age: 85.0 != 70.0
+sex: male != female
+localization: abdomen != lower extremity
+
+[0.9434] Lesion IDs do not match for ISIC_0026338 and ISIC_0031174.
+vidir_molemax, vidir_molemax
+age: 65.0 != 55.0
+sex: female != male
+localization: trunk != abdomen
+
+[0.9434] Lesion IDs do not match for ISIC_0027879 and ISIC_0027173.
+vidir_molemax, vidir_molemax
+age: 40.0 != 45.0
+
+[0.9434] Lesion IDs do not match for ISIC_0025497 and ISIC_0031393.
+vidir_molemax, vidir_molemax
