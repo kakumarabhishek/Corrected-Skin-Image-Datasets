@@ -468,7 +468,7 @@ INFO = {
         "description":
         "This is a corrected version of the original DermaMNIST dataset after fixing data leakage across partitions. The source images of 3×600×450 are resized into 3×28×28.",
         "url":
-        "",
+        "https://zenodo.org/records/11101338/files/dermamnist_corrected_28.npz?download=1",
         "MD5": "96e2862980877d45d9cacb5c25de6950",
         "task": "multi-class",
         "label": {
@@ -493,7 +493,7 @@ INFO = {
         "description":
         "This is a corrected version of the original DermaMNIST dataset after fixing data leakage across partitions. The source images of 3×600×450 are resized into 3×224×224.",
         "url":
-        "",
+        "https://zenodo.org/records/11101338/files/dermamnist_corrected_224.npz?download=1",
         "MD5": "84920fb70c83b234c295b6f0d4ae2bc0",
         "task": "multi-class",
         "label": {
@@ -518,7 +518,7 @@ INFO = {
         "description":
         "This is an extended version of the original DermaMNIST dataset, constructed by resizing the 3×600×450 source images of ISIC 2018 Challenge Task 3 into 3×28×28.",
         "url":
-        "",
+        "https://zenodo.org/records/11101338/files/dermamnist_extended_28.npz?download=1",
         "MD5": "ecacbf37d9cc79340226bd19bd4c7463",
         "task": "multi-class",
         "label": {
@@ -543,7 +543,7 @@ INFO = {
         "description":
         "This is an extended version of the original DermaMNIST dataset, constructed by resizing the 3×600×450 source images of ISIC 2018 Challenge Task 3 into 3×224×224.",
         "url":
-        "",
+        "https://zenodo.org/records/11101338/files/dermamnist_extended_224.npz?download=1",
         "MD5": "b59d6a78a036a0bb48a1eff13d94333c",
         "task": "multi-class",
         "label": {
