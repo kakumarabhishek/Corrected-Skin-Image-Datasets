@@ -1,3 +1,9 @@
+# The 1000 duplicates' HTML file is too large to be uploaded to GitHub.
+DermaMNIST/HAM10000_DuplicateConfirmation/fastdup_outputs/duplicates_1000.html
+
+# Files to be uploaded to Zenodo. The files are too large to be uploaded to GitHub.
+ZenodoUploads/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -56,7 +62,7 @@ cover/
 *.pot
 
 # Django stuff:
-*.log
+# *.log
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
