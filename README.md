@@ -12,6 +12,7 @@ The repository is structured as:
 * [`DermaMNIST/`](DermaMNIST/): Parent directory for DermaMNIST analysis and benchmarking experiments.
     * [`DermaMNIST_Analysis/`](DermaMNIST/DermaMNIST_Analysis/): Directory containing the code for all our analysis of the DermaMNIST dataset, including the preparation of DermaMNIST-C and DermaMNIST-E datasets.
     * [`DermaMNIST_Training/`](DermaMNIST/DermaMNIST_Training/): Directory containing the code for reproducing our benchmark experiment results, including the new [`medmnist_corrected`](DermaMNIST/DermaMNIST_Training/medmnist_corrected/).
+    * [`HAM10000_DuplicateConfirmation/`](DermaMNIST/HAM10000_DuplicateConfirmation/): Directory containing the code and results for detecting new duplicate image pairs in the HAM10000 dataset.
 * [`Fitzpatrick17k/`](Fitzpatrick17k/): Parent directory for Fitzpatrick17k analysis and benchmarking experiments.
     * [`Fitzpatrick17k_Analysis/`](Fitzpatrick17k/Fitzpatrick17k_Analysis/): Directory containing the code for our cleaning pipeline for the Fitzpatrick17k dataset, including the preparation of the Fitzpatrick17k-C dataset.
     * [`Fitzpatrick17k_Training/`](Fitzpatrick17k/Fitzpatrick17k_Training/): Directory containing the code for reproducing our benchmark experiment results.
@@ -58,17 +59,88 @@ If you use our newly proposed datasets or our analyses, please cite [our paper](
   journal = {arXiv preprint arXiv:2401.14497},
   doi = {10.48550/ARXIV.2401.14497},
   url = {https://arxiv.org/abs/2401.14497},
-  year={2024}
+  year = {2024}
 }
 
 @dataset{abhishek_2024_11101337,
   title = {{Investigating the Quality of {DermaMNIST} and {Fitzpatrick17k} Dermatological Image Datasets}},
   month = May,
   year = 2024,
-  author = {Abhishek,  Kumar and Jain,  Aditi and Hamarneh,  Ghassan},
+  author = {Abhishek, Kumar and Jain, Aditi and Hamarneh, Ghassan},
   language = {en},
   publisher = {Zenodo},
   doi = {10.5281/ZENODO.11101337},
   url = {https://zenodo.org/doi/10.5281/zenodo.11101337},
 }
 ```
+
+## Dataset Acknowledgements
+
+We would like to thank the authors of the original papers: DermaMNIST ([_ISBI_ 2021](https://doi.org/10.1109/ISBI48211.2021.9434062), [_Nat Sci Data_ 2023](https://doi.org/10.1038/s41597-022-01721-8)), HAM10000 ([_Nat Sci Data_ 2018](https://doi.org/10.1038/sdata.2018.161)), and Fitzpatrick17k ([_CVPR ISIC_ 2021](https://doi.org/10.1109/CVPRW53098.2021.00201)), for making their datasets publicly available. We would request the users of our datasets to also cite the original datasets in their work. The corresponding BibTeX entries for the original datasets are:
+
+<details>
+
+<summary>DermaMNIST:</summary>
+
+```
+@inproceedings{yang2021medmnist,
+  title = {{MedMNIST} Classification Decathlon: A Lightweight {AutoML} Benchmark for Medical Image Analysis},
+  author = {Yang, Jiancheng and Shi, Rui and Ni, Bingbing},
+  booktitle = {2021 IEEE 18th International Symposium on Biomedical Imaging (ISBI)},
+  pages = {191--195},
+  year = {2021},
+  organization = {IEEE},
+  doi = {10.1109/ISBI48211.2021.9434062}
+}
+
+@article{yang2023medmnist,
+  title = {{MedMNIST} v2 - A large-scale lightweight benchmark for {2D} and {3D} biomedical image classification},
+  author = {Yang, Jiancheng and Shi, Rui and Wei, Donglai and Liu, Zequan and Zhao, Lin and Ke, Bilian and Pfister, Hanspeter and Ni, Bingbing},
+  journal = {Scientific Data},
+  volume = {10},
+  number = {1},
+  pages = {41},
+  year = {2023},
+  publisher = {Nature Publishing Group UK London},
+  doi = {10.1038/s41597-022-01721-8}
+}
+```
+
+</details>
+
+<details>
+
+<summary>HAM10000:</summary>
+
+```
+@article{tschandl2018ham10000,
+  title = {The {HAM10000} dataset, a large collection of multi-source dermatoscopic images of common pigmented skin lesions},
+  author = {Tschandl, Philipp and Rosendahl, Cliff and Kittler, Harald},
+  journal = {Scientific Data},
+  volume = {5},
+  number = {1},
+  pages = {1--9},
+  year = {2018},
+  publisher = {Nature Publishing Group},
+  doi = {10.1038/sdata.2018.161}
+}
+```
+
+</details>
+
+<details>
+
+<summary>Fitzpatrick17k:</summary>
+
+```
+@inproceedings{groh2021evaluating,
+  title = {Evaluating Deep Neural Networks Trained on Clinical Images in Dermatology with the {Fitzpatrick 17k} Dataset},
+  author = {Groh, Matthew and Harris, Caleb and Soenksen, Luis and Lau, Felix and Han, Rachel and Kim, Aerin and Koochek, Arash and Badri, Omar},
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages = {1820--1828},
+  year = {2021}.
+  doi = {10.1109/CVPRW53098.2021.00201}
+}
+```
+
+</details>
