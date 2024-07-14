@@ -41,9 +41,9 @@ The datasets released with this work: DermaMNIST-C, DermaMNIST-E, and Fitzpatric
 
 The code in this repository is licensed under the [Apache License 2.0](LICENSE).
 
-The datasets released on [Zenodo](https://doi.org/10.5281/zenodo.11101337) are licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
+<!-- The datasets released on [Zenodo](https://doi.org/10.5281/zenodo.11101337) are licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
 
-[![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
+[![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc] -->
 
 [cc-by-nc]: https://creativecommons.org/licenses/by-nc/4.0/
 [cc-by-nc-image]: https://licensebuttons.net/l/by-nc/4.0/88x31.png
